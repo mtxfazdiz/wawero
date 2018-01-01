@@ -19,8 +19,12 @@
   <body>
 
     <header>
+
       <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
         {{--<a class="navbar-brand" href="#">Carousel</a>--}}
+        <div class="container">
+
+
         <a class="navbar-left" href="{{ url('/') }}">
           <img class="logo" src="pic/logo2.png">
         </a>
@@ -32,19 +36,27 @@
             <li class="nav-item active">
               <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
+            <li class="nav-item active">
+              <a class="nav-link" href="#">O nas <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Disabled</a>
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Nasz miód <span class="sr-only">(current)</span></a>
             </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Kontakt <span class="sr-only">(current)</span></a>
+            </li>
+
           </ul>
           <!-- <form class="form-inline mt-2 mt-md-0">
             <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
           </form> -->
         </div>
+
+          </div>
+
       </nav>
+
     </header>
 
     <main role="main">
