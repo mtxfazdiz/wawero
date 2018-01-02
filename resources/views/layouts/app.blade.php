@@ -19,6 +19,8 @@
   <body>
 
     <header>
+      <div class="container">
+        <div class="row col-lg-4">
       <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
         {{--<a class="navbar-brand" href="#">Carousel</a>--}}
         <a class="navbar-left" href="{{ url('/') }}">
@@ -45,6 +47,8 @@
           </form> -->
         </div>
       </nav>
+    </div>
+    </div>
     </header>
 
     <main role="main">
