@@ -19,43 +19,35 @@
   <body>
 
     <header>
-
-      <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
-      
+<!-- navbar-expand-md   navbar navbar-expand-md navbar-light fixed-top bg-light-->
+      <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" >
         <div class="container">
-
-
-        <a class="navbar-left" href="{{ url('/') }}">
-          <img class="logo" src="pic/logo2.png">
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="#">O nas <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Nasz miód <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Kontakt <span class="sr-only">(current)</span></a>
-            </li>
-
-          </ul>
-          
+          <a class="navbar-left" href="{{ url('/') }}">
+            <img class="logo" src="pic/logo2.png">
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"  aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+             <ul class="navbar-nav mr-auto pl-5">
+              <li class="nav-item active">
+                <a class="nav-link blue" href="#">Home <span class="sr-only">(current)</span></span></a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">O nas <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Nasz miód <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Kontakt <span class="sr-only">(current)</span></a>
+              </li>
+            </ul> 
+          </div>
         </div>
 
-          </div>
+      </nav> 
 
-      </nav>
-
-
-9
     </header>
 
     <main role="main">
