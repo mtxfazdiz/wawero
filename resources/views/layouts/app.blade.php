@@ -29,9 +29,9 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-             <ul class="navbar-nav mr-auto pl-3">
+             <ul class="navbar-nav mr-auto pl-5">
               <li class="nav-item">
-                <a class="nav-link blue" href="#">Home <span class="sr-only">(current)</span></span></a>
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></span></a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">O nas <span class="sr-only">(current)</span></a>

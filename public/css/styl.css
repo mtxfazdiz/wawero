@@ -1,3 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i&subset=latin-ext);
+
+
+BODY {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #545454;
+
+}
+
+
 .logo{
     height:80px;
     
@@ -40,9 +51,10 @@
 /* ========= navbar height end ========== #301a09; */
 
 
-.navbar > .container > ul > li > a {
-	color:#fff;
-}
+
 .navbar > .container > ul > li > a:hover {
 	color:#000;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(44, 12, 0, 0.91);
 }
