@@ -1,6 +1,6 @@
 .logo{
-    height:40px;
-    line-height: 50px;
+    height:50px;
+    
     vertical-align: middle;
 
 }
@@ -39,11 +39,10 @@
 
 /* ========= navbar height end ========== #301a09; */
 
-.nav-item > a {
-	color: blue; 
+
+.navbar > .container > ul > li > a {
+	color:#fff;
 }
-.blue {
-  color: red;
-  text-decoration: none;
-  
+.navbar > .container > ul > li > a:hover {
+	color:#000;
 }

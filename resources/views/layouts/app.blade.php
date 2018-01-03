@@ -30,16 +30,16 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
              <ul class="navbar-nav mr-auto pl-5">
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link blue" href="#">Home <span class="sr-only">(current)</span></span></a>
               </li>
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="#">O nas <span class="sr-only">(current)</span></a>
               </li>
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="#">Nasz miód <span class="sr-only">(current)</span></a>
               </li>
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="#">Kontakt <span class="sr-only">(current)</span></a>
               </li>
             </ul> 
