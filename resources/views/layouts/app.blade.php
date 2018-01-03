@@ -57,6 +57,7 @@
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
           <li data-target="#myCarousel" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -81,6 +82,16 @@
           </div>
           <div class="carousel-item">
             <img class="third-slide" src="pic/3.jpg" alt="Third slide">
+            <div class="container">
+              <div class="carousel-caption text-left">
+                <h1>Miód to płynne lekarstwo!</h1>
+                <p>Zawiera bogaty zestaw witamin oraz makro i mikroelementów.</p>
+                <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="forth-slide" src="pic/4.jpg" alt="Forth slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Miód to płynne lekarstwo!</h1>
