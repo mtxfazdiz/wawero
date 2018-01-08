@@ -19,11 +19,10 @@
   <body>
 
     <header>
-<!-- navbar-expand-md   navbar navbar-expand-md navbar-light fixed-top bg-light-->
-      <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" >
+      <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="myNavbar">
         <div class="container">
           <a class="navbar-left" href="{{ url('/') }}">
-            <img class="logo" src="pic/logo.svg">
+            <img class="logo" src="pic/logo768.svg">
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"  aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
