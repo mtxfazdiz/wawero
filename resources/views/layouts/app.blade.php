@@ -59,8 +59,8 @@
           <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img class="first-slide" src="pic/1.jpg" alt="First slide">
+          <div class="carousel-item active" id="first-slide">
+            
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Miód jest pożywny!</h1>
