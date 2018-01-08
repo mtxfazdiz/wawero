@@ -34,7 +34,7 @@ BODY {
 }
 
 .navbar-toggle {
-  /* (80px - button height 34px) / 2 = 23px */
+  /* (80px - button height 34px) / 2 = 23px     */
   margin-top: 33px;
   padding: 9px 10px !important;
 }
