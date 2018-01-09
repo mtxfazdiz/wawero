@@ -5,6 +5,7 @@ BODY {
     font-family: 'Lato', sans-serif;
     font-size: 16px;
     color: #545454;
+  
 
 }
 
@@ -21,10 +22,7 @@ BODY {
 
 
 /* ========= navbar height begin ==========  */
-@media (min-width: 400px) 
-{
-   
-}
+
 
 @media (min-width: 480px) 
 {
@@ -37,9 +35,9 @@ BODY {
 
 
 @media (min-width: 1200px) {
-
+/*
 .navbar-nav > li > a {
-    /* (80px - line-height of 27px) / 2 = 26.5px */
+    /* (80px - line-height of 27px) / 2 = 26.5px 
     padding-top: 36.5px;
     padding-bottom: 36.5px;
     line-height: 27px;
@@ -56,9 +54,9 @@ BODY {
 }
 
 .navbar-toggle {
-  /* (80px - button height 34px) / 2 = 23px     */
+   (80px - button height 34px) / 2 = 23px     
   margin-top: 33px;
-  padding: 9px 10px !important;
+  padding: 9px 10px !important;  
 }
 
 .logo{

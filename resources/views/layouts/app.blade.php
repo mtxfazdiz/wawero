@@ -58,9 +58,10 @@
           <li data-target="#myCarousel" data-slide-to="2"></li>
           <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>
+        
+
         <div class="carousel-inner">
           <div class="carousel-item active" id="first-slide">
-            
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Miód jest pożywny!</h1>
@@ -69,8 +70,9 @@
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <img class="second-slide" src="pic/2b.jpg" alt="Second slide">
+          
+
+          <div class="carousel-item" id="second-slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Miód jest smaczny!</h1>
@@ -79,8 +81,9 @@
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <img class="third-slide" src="pic/3.jpg" alt="Third slide">
+
+
+          <div class="carousel-item" id="third-slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Miód to naturalne lekarstwo!</h1>
@@ -89,8 +92,9 @@
               </div>
             </div>
           </div>
-          <div class="carousel-item">
-            <img class="forth-slide" src="pic/4.jpg" alt="Forth slide">
+          
+
+          <div class="carousel-item" id="fourth-slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Miód to płynne lekarstwo!</h1>
@@ -100,6 +104,8 @@
             </div>
           </div>
         </div>
+        
+
         <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
