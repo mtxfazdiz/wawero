@@ -104,12 +104,52 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
+
+
+
+
+
+  #myCarousel .carousel-item{
+  height: 310px;
+  
+}
+
+#first-slide{
+  background: url('../pic/1_sm.jpg') top center no-repeat;
+  top: 0px;
+  
+}
+
+#second-slide{
+  background: url('../pic/2_sm.jpg') top center no-repeat;
+  top: 0px;
+ 
+}
+
+#third-slide{
+  background: url('../pic/3_sm.jpg') top center no-repeat;
+  top: 0px;
+  
+}
+
+#fourth-slide{
+  background: url('../pic/4_sm.jpg') top center no-repeat;
+  top: 0px;
+  
+}
+
 }
 
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
   }
+
+
+
+
+
+
 }
 
 @media (min-width: 75em) {
