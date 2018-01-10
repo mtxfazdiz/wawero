@@ -30,7 +30,7 @@ body
   /*height: 32rem;
   background-color: #777;  */
 }
-
+/*
 #myCarousel .carousel-item
 {
   height: 400px;
@@ -60,7 +60,7 @@ body
 {
   background: url('../pic/4_md.jpg') top center no-repeat;
   top: 0px;
-}
+} */
 
 
 /* MARKETING CONTENT
@@ -162,7 +162,7 @@ body
 
   #myCarousel .carousel-item
   {
-    height: 512px;
+    height: 400px;
   }
 
   #first-slide
