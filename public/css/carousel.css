@@ -49,13 +49,13 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1200.jpg') top center no-repeat;
+  background: url('../pic/3_1200.jpg') top right no-repeat;
   top: 0px;
   }
 
   #fourth-slide
   {
-  background: url('../pic/4_1200.jpg') top center no-repeat;
+  background: url('../pic/4_1200.jpg') top right no-repeat;
   top: 0px;
   }
 
@@ -146,13 +146,13 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1440.jpg') top center no-repeat;
+  background: url('../pic/3_1440.jpg') top right no-repeat;
   top: 0px;
   }
 
   #fourth-slide
   {
-  background: url('../pic/4_1440.jpg') top center no-repeat;
+  background: url('../pic/4_1440.jpg') top right no-repeat;
   top: 0px;
   }
 }
@@ -178,13 +178,13 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1600.jpg') top center no-repeat;
+  background: url('../pic/3_1600.jpg') top right no-repeat;
   top: 0px;
   }
 
   #fourth-slide
   {
-  background: url('../pic/4_1600.jpg') top center no-repeat;
+  background: url('../pic/4_1600.jpg') top right no-repeat;
   top: 0px;
   }
 }
@@ -210,13 +210,13 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1920.jpg') top center no-repeat;
+  background: url('../pic/3_1920.jpg') top right no-repeat;
   top: 0px;
   }
 
   #fourth-slide
   {
-  background: url('../pic/4_1920.jpg') top center no-repeat;
+  background: url('../pic/4_1920.jpg') top right no-repeat;
   top: 0px;
   }
 }
@@ -242,13 +242,13 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_2048.jpg') top center no-repeat;
+  background: url('../pic/3_2048.jpg') top right no-repeat;
   top: 0px;
   }
 
   #fourth-slide
   {
-  background: url('../pic/4_2048.jpg') top center no-repeat;
+  background: url('../pic/4_2048.jpg') top right no-repeat;
   top: 0px;
   }
 }
