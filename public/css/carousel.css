@@ -30,37 +30,34 @@ body
   /*height: 32rem;
   background-color: #777;  */
 }
-/*
 #myCarousel .carousel-item
-{
-  height: 400px;
-  
-}
+  {
+    height: 300px;
+  }
 
-#first-slide
-{
-  background: url('../pic/1_md.jpg') top center no-repeat;
+  #first-slide
+  {
+  background: url('../pic/1_1200.jpg') top center no-repeat;
   top: 0px;
-  
-}
+  }
 
-#second-slide
-{
-  background: url('../pic/2_md.jpg') top center no-repeat;
+  #second-slide
+  {
+  background: url('../pic/2_1200.jpg') top center no-repeat;
   top: 0px;
-}
+  }
 
-#third-slide
-{
-  background: url('../pic/3_md.jpg') top center no-repeat;
+  #third-slide
+  {
+  background: url('../pic/3_1200.jpg') top center no-repeat;
   top: 0px;
-}
+  }
 
-#fourth-slide
-{
-  background: url('../pic/4_md.jpg') top center no-repeat;
+  #fourth-slide
+  {
+  background: url('../pic/4_1200.jpg') top center no-repeat;
   top: 0px;
-} */
+  }
 
 
 /* MARKETING CONTENT
@@ -119,134 +116,14 @@ body
   }
 }
 
-
-@media (min-width: 750px) 
+@media (min-width: 62em) 
 {
-  #myCarousel .carousel-item
+  .featurette-heading 
   {
-    height: 199px;
-  }
-
-  #first-slide
-  {
-  background: url('../pic/1_800.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #second-slide
-  {
-  background: url('../pic/2_800.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #third-slide
-  {
-  background: url('../pic/3_800.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #fourth-slide
-  {
-  background: url('../pic/4_800.jpg') top center no-repeat;
-  top: 0px;
+    margin-top: 7rem;
   }
 }
 
-@media (min-width: 800px) 
-{
-  #myCarousel .carousel-item
-  {
-    height: 224px;
-  }
-
-  #first-slide
-  {
-  background: url('../pic/1_900.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #second-slide
-  {
-  background: url('../pic/2_900.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #third-slide
-  {
-  background: url('../pic/3_900.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #fourth-slide
-  {
-  background: url('../pic/4_900.jpg') top center no-repeat;
-  top: 0px;
-  }
-}
-
-@media (min-width: 900px) 
-{
-  #myCarousel .carousel-item
-  {
-    height: 255px;
-  }
-
-  #first-slide
-  {
-  background: url('../pic/1_1024.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #second-slide
-  {
-  background: url('../pic/2_1024.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #third-slide
-  {
-  background: url('../pic/3_1024.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #fourth-slide
-  {
-  background: url('../pic/4_1024.jpg') top center no-repeat;
-  top: 0px;
-  }
-}
-
-@media (min-width: 1024px) 
-{
-  #myCarousel .carousel-item
-  {
-    height: 300px;
-  }
-
-  #first-slide
-  {
-  background: url('../pic/1_1200.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #second-slide
-  {
-  background: url('../pic/2_1200.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #third-slide
-  {
-  background: url('../pic/3_1200.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #fourth-slide
-  {
-  background: url('../pic/4_1200.jpg') top center no-repeat;
-  top: 0px;
-  }
-}
 
 @media (min-width: 1200px) 
 {
@@ -376,93 +253,5 @@ body
   }
 }
 
-
-
-
-
-
-
-@media (min-width: 62em) 
-{
-  .featurette-heading 
-  {
-    margin-top: 7rem;
-  }
-  /*
-  #myCarousel .carousel-item
-  {
-    height: 400px;
-  }
-
-  #first-slide
-  {
-    background: url('../pic/1_md.jpg') top center no-repeat;
-    top: 0px;
-  }
-
-  #second-slide
-  {
-    background: url('../pic/2_md.jpg') top center no-repeat;
-    top: 0px;
-  }
-
-  #third-slide
-  {
-    background: url('../pic/3_md.jpg') top center no-repeat;
-    top: 0px; 
-  }
-
-  #fourth-slide
-  {
-    background: url('../pic/4_md.jpg') top center no-repeat;
-    top: 0px;
-  } 
-  */
-}
-
-@media (min-width: 75em) 
-{
-  /*
-  #myCarousel .carousel-item
-  {
-    height: 512px;
-  }
-
-  #first-slide
-  {
-    background: url('../pic/1_lg.jpg') top center no-repeat;
-    top: 0px;
-  }
-
-  #second-slide
-  {
-    background: url('../pic/2_lg.jpg') top center no-repeat;
-    top: 0px;
-  }
-
-  #third-slide
-  {
-    background: url('../pic/3_lg.jpg') top center no-repeat;
-    top: 0px; 
-  }
-
-  #fourth-slide
-  {
-    background: url('../pic/4_lg.jpg') top center no-repeat;
-    top: 0px;
-  }
-
-
-
-
-
-  /*.carousel-item > img {
-    position: absolute;
-    top: 65px;
-    left: 0;
-    min-width: 100%;
-    height: 32rem; 
-  }*/
-}
 
 
