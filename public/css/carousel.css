@@ -28,8 +28,10 @@ body
 .carousel-item 
 {
   /*height: 32rem;
-  background-color: #777;  */
+  background-color: #777;
+  */
 }
+/*
 #myCarousel .carousel-item
   {
     height: 300px;
@@ -58,7 +60,7 @@ body
   background: url('../pic/4_1200.jpg') top right no-repeat;
   top: 0px;
   }
-
+*/
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -124,6 +126,38 @@ body
   }
 }
 
+
+@media (min-width: 800px) 
+{
+  #myCarousel .carousel-item
+  {
+    height: 360px;
+  }
+
+  #first-slide
+  {
+  background: url('../pic/1_1440.jpg') top center no-repeat;
+  top: 0px;
+  }
+
+  #second-slide
+  {
+  background: url('../pic/2_1440.jpg') top center no-repeat;
+  top: 0px;
+  }
+
+  #third-slide
+  {
+  background: url('../pic/3_1440.jpg') top right no-repeat;
+  top: 0px;
+  }
+
+  #fourth-slide
+  {
+  background: url('../pic/4_1440.jpg') top right no-repeat;
+  top: 0px;
+  }
+}
 
 @media (min-width: 1200px) 
 {
