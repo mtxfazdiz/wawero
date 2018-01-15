@@ -135,25 +135,25 @@ body
 
   #first-slide
   {
-  background: url('../pic/1_xs.jpg') top center no-repeat;
+  background: url('../pic/1_xs.jpg') top right no-repeat;
   top: 0px;
   }
 
   #second-slide
   {
-  background: url('../pic/2_xs.jpg') top center no-repeat;
+  background: url('../pic/2_xs.jpg') top right no-repeat;
   top: 0px;
   }
 
   #third-slide
   {
-  background: url('../pic/3_xs.jpg') top center no-repeat;
+  background: url('../pic/3_xs.jpg') top right no-repeat;
   top: 0px;
   }
 
   #fourth-slide
   {
-  background: url('../pic/4_xs.jpg') top center no-repeat;
+  background: url('../pic/4_xs.jpg') top right no-repeat;
   top: 0px;
   }
 }
