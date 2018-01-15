@@ -74,7 +74,7 @@
 
           <div class="carousel-item" id="second-slide">
             <div class="container">
-              <div class="carousel-caption text-right">
+              <div class="carousel-caption text-left">
                 <h1>Miód jest smaczny!</h1>
                 <p>Nadaje niepowtarzalny smak potrawom.</p>
                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
