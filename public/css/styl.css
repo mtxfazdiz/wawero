@@ -9,9 +9,12 @@ BODY {
 
 }
 
-.logo
+#myLogo
   {
-    height:40px;
+    background: url('../pic/logo_test.svg') top left no-repeat;
+    top: 0px;
+    min-height: 40px;
+    min-width: 100px;
   }  
 
 
