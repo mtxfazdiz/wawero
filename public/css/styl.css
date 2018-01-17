@@ -1,21 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i&subset=latin-ext);
 
 
-BODY {
-    font-family: 'Lato', sans-serif;
-    font-size: 16px;
-    color: #545454;
-  
-
+body 
+{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  color: #545454;
 }
 
-#myLogo
-  {
-    background: url('../pic/logo_test.svg') top left no-repeat;
-    top: 0px;
-    min-height: 40px;
-    min-width: 100px;
-  }  
+.logo
+{
+  height: 40px;
+}
 
 
 .ramka{

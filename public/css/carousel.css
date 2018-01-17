@@ -9,6 +9,23 @@ body
   color: #5a5a5a;
 }
 
+/* CUSTOMIZE THE NAVBAR LOGO
+-------------------------------------------------- */
+
+
+
+
+/*
+#myLogo
+  {
+    background: url('../pic/logo_test2.svg') top left no-repeat;
+    top: 0px;
+    min-height: 40px;
+    min-width: 100px;
+  }  
+
+*/
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -128,6 +145,7 @@ body
 
 @media (max-width: 799px) 
 {
+  
   #myCarousel .carousel-item
   {
     height: 512px;
