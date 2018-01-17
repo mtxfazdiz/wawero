@@ -33,10 +33,10 @@
                 <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">O nas <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#">Nasz miód <span class="sr-only">(current)</span></a>  
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Nasz miód <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#">O nas <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Kontakt <span class="sr-only">(current)</span></a>
@@ -66,7 +66,7 @@
               <div class="carousel-caption text-left">
                 <h1>Miód jest pożywny!</h1>
                 <p>W 80% składa się z cukrów prostych: fruktozy i glukozy.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Sign up today</a></p>
               </div>
             </div>
           </div>
@@ -77,7 +77,7 @@
               <div class="carousel-caption text-left">
                 <h1>Miód jest smaczny!</h1>
                 <p>Nadaje niepowtarzalny smak potrawom.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Learn more</a></p>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@
               <div class="carousel-caption text-left">
                 <h1>Miód to naturalne lekarstwo!</h1>
                 <p>Zawiera bogaty zestaw witamin oraz makro i mikroelementów.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Browse gallery</a></p>
               </div>
             </div>
           </div>
@@ -99,7 +99,7 @@
               <div class="carousel-caption text-left">
                 <h1>Miód to płynne lekarstwo!</h1>
                 <p>Zawiera bogaty zestaw witamin oraz makro i mikroelementów.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Browse gallery</a></p>
               </div>
             </div>
           </div>

@@ -19,6 +19,19 @@ body
     border-style: solid;
 }
 
+.btn-outline-primary {
+  color: #FFFFFF;
+  background-image: none;
+  background-color: transparent;
+  border-color: #FFFFFF;
+}
+
+.btn-outline-primary:hover {
+  color: #FFFFFF;
+  background-color: transparent;
+  border-color: #DDCEC5;
+}
+
 
 /* ========= navbar height begin ==========  */
 
