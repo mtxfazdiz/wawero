@@ -56,19 +56,19 @@ body
 
 #first-slide
   {
-  background: url('../pic/1.jpg') top center no-repeat;
+  background: url('../pic/1_992.jpg') top center no-repeat;
   top: 0px;
   }
 
   #second-slide
   {
-  background: url('../pic/2.jpg') top center no-repeat;
+  background: url('../pic/2_992.jpg') top center no-repeat;
   top: 0px;
   }
 
   #third-slide
   {
-  background: url('../pic/3.jpg') top right no-repeat;
+  background: url('../pic/3_sm2.jpg') top right no-repeat;
   top: 0px;
   }
 
@@ -144,11 +144,10 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_sm2.jpg') top center no-repeat;
+  background: url('../pic/3_sm2.jpg') top left no-repeat;
   top: 0px;
   }
 }
-
 
 @media (min-width: 40em) {
   /* Bump up size of carousel content */
@@ -185,28 +184,6 @@ body
   }
 }
 
-@media (min-width: 50em) {
-  .featurette-heading {
-    margin-top: 7rem;
-  }
-  #first-slide
-  {
-  background: url('../pic/1_992.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #second-slide
-  {
-  background: url('../pic/2_992.jpg') top center no-repeat;
-  top: 0px;
-  }
-
-  #third-slide
-  {
-  background: url('../pic/3_sm2.jpg') top right no-repeat;
-  top: 0px;
-  }
-}
 
 @media (min-width: 62em) {
   .featurette-heading {
