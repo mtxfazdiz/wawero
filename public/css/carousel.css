@@ -15,17 +15,6 @@ body
 
 
 
-/*
-#myLogo
-  {
-    background: url('../pic/logo_test2.svg') top left no-repeat;
-    top: 0px;
-    min-height: 40px;
-    min-width: 100px;
-  }  
-
-*/
-
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -33,6 +22,7 @@ body
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
+
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -60,13 +50,13 @@ body
   top: 0px;
   }
 
-  #second-slide
+#second-slide
   {
   background: url('../pic/2_992.jpg') top center no-repeat;
   top: 0px;
   }
 
-  #third-slide
+#third-slide
   {
   background: url('../pic/3_sm2.jpg') top right no-repeat;
   top: 0px;
@@ -203,7 +193,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1920.jpg') top right no-repeat;
+  background: url('../pic/3_1920.jpg') top center no-repeat;
   top: 0px;
   }
 }
