@@ -208,3 +208,26 @@ body
   top: 0px;
   }
 
+  @media (min-width: 70em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+  #first-slide
+  {
+  background: url('../pic/1_1920.jpg') top center no-repeat;
+  top: 0px;
+  }
+
+  #second-slide
+  {
+  background: url('../pic/2_1920.jpg') top center no-repeat;
+  top: 0px;
+  }
+
+  #third-slide
+  {
+  background: url('../pic/3_sm2.jpg') top right no-repeat;
+  top: 0px;
+  }
+
+
