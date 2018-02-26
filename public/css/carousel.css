@@ -56,19 +56,19 @@ body
 
 #first-slide
   {
-  background: url('../pic/1_md.jpg') top centerd no-repeat;
+  background: url('../pic/1_1920.jpg') top centerd no-repeat;
   top: 0px;
   }
 
   #second-slide
   {
-  background: url('../pic/2_md.jpg') top center no-repeat;
+  background: url('../pic/2_1920.jpg') top center no-repeat;
   top: 0px;
   }
 
   #third-slide
   {
-  background: url('../pic/3_md.jpg') top right no-repeat;
+  background: url('../pic/3_1920.jpg') top right no-repeat;
   top: 0px;
   }
 
@@ -132,19 +132,19 @@ body
 
   #first-slide
   {
-  background: url('../pic/1_sm.jpg') top center no-repeat;
+  background: url('../pic/1_992.jpg') top center no-repeat;
   top: 0px;
   }
 
   #second-slide
   {
-  background: url('../pic/2_sm.jpg') top center no-repeat;
+  background: url('../pic/2_992.jpg') top center no-repeat;
   top: 0px;
   }
 
   #third-slide
   {
-  background: url('../pic/3_sm.jpg') top right no-repeat;
+  background: url('../pic/3_992.jpg') top right no-repeat;
   top: 0px;
   }
 }
