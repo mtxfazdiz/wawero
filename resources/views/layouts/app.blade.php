@@ -94,15 +94,7 @@
           </div>
           
 
-          <div class="carousel-item" id="fourth-slide">
-            <div class="container">
-              <div class="carousel-caption text-left">
-                <h1>Miód to płynne lekarstwo!</h1>
-                <p>Zawiera bogaty zestaw witamin oraz makro i mikroelementów.</p>
-                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Browse gallery</a></p>
-              </div>
-            </div>
-          </div>
+          
         </div>
         
 
