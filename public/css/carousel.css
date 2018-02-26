@@ -56,7 +56,7 @@ body
 
 #first-slide
   {
-  background: url('../pic/1.jpg') top centerd no-repeat;
+  background: url('../pic/1.jpg') top center no-repeat;
   top: 0px;
   }
 
@@ -206,5 +206,5 @@ body
   {
   background: url('../pic/3_1920.jpg') top right no-repeat;
   top: 0px;
-  }1920
+  }
 
