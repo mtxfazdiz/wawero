@@ -143,11 +143,11 @@
 
         <div class="row featurette">
           <div class="col-md-7">
-            <h2 class="featurette-heading">100 lat tradycji! <span class="text-muted">Produkujemy miód od 3 pokoleń.</span></h2>
+            <h2 class="featurette-heading">100 lat tradycji! <span class="text-muted">Hodujemy pszczoły od 3 pokoleń.</span></h2>
             <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="pic/rodzice.jpg" alt="Rodzice">
           </div>
         </div>
 
@@ -155,11 +155,11 @@
 
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">Nasz miód jest rozlewany ręcznie. <span class="text-muted">See for yourself.</span></h2>
+            <h2 class="featurette-heading">Pszczelarstwo to nasza pasja. <span class="text-muted">Pozyskujemy miód najwyższej jakości.</span></h2>
             <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
           </div>
           <div class="col-md-5 order-md-1">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="pic/beekeeper.jpg" alt="Beekeeper">
           </div>
         </div>
 
