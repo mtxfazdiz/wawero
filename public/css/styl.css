@@ -32,6 +32,28 @@ body
   border-color: #DDCEC5;
 }
 
+.btn-outline-secondary {
+  color: #5a5a5a;
+  background-image: none;
+  background-color: transparent;
+  border-color: #5a5a5a;
+}
+
+.btn-outline-secondary:hover {
+  color: #442815;
+  background-color: transparent;
+  border-color: #5a5a5a;
+}
+
+a{
+  color: #5a5a5a;
+}
+a:hover{
+  color: #442815;
+  text-decoration: none;
+}
+
+
 
 /* ========= navbar height begin ==========  */
 
@@ -83,7 +105,7 @@ body
 
 /* ========= navbar height end ========== #301a09; */
 
-
+/*
 .navbar > .container > ul > li > a:hover {
 	color:#000;
     color: rgba(44, 12, 0, 0.91);
@@ -91,3 +113,6 @@ body
 .navbar-light .navbar-nav .nav-link {
     color: #442815;
 }
+
+
+*/

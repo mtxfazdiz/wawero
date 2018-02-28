@@ -120,19 +120,19 @@
             <img class="rounded-circle" src="pic/miod_sample.jpg" alt="Miód" width="140">
             <h2>Miód rzepakowy</h2>
             <p>Miód rzepakowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
+            <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="pic/miod_sample.jpg" alt="Miód" width="140">
             <h2>Miód lipowy</h2>
             <p>Miód lipowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
+            <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="pic/miod_sample.jpg" alt="Miód" width="140">
             <h2>Miód gryczany</h2>
             <p>Miód gryczany uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
+            <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
 
@@ -171,7 +171,7 @@
             <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="pic/ule.jpg" alt="Generic placeholder image">
           </div>
         </div>
 
@@ -184,8 +184,8 @@
 
       <!-- FOOTER -->
       <footer class="container">
-        <p class="float-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2017 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+        <p class="float-right"><a href="#">Do góry</a></p>
+        <p>&copy; 2017 Miody Wigor <!-- &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p> -->
       </footer>
 
     </main>
@@ -198,8 +198,5 @@
     <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-    <script src="js/holder.min.js"></script>
-
   </body>
 </html>
