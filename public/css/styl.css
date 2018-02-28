@@ -33,23 +33,23 @@ body
 }
 
 .btn-outline-secondary {
-  color: #5a5a5a;
+  color: #868e96;
   background-image: none;
   background-color: transparent;
-  border-color: #5a5a5a;
+  border-color: #868e96;
 }
 
 .btn-outline-secondary:hover {
-  color: #442815;
+  color: #5a5a5a;
   background-color: transparent;
   border-color: #5a5a5a;
 }
 
 a{
-  color: #5a5a5a;
+  color: #868e96;
 }
 a:hover{
-  color: #442815;
+  color: #5a5a5a;
   text-decoration: none;
 }
 

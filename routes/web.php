@@ -11,6 +11,17 @@
 |
 */
 
+
+
 Route::get('/', function () {
     return view('welcome');
+});
+Route::get('/naszmiod', function () {
+    return view('naszmiod');
+});
+Route::get('/onas', function () {
+    return view('onas');
+});
+Route::get('/kontakt', function () {
+    return view('kontakt');
 });
