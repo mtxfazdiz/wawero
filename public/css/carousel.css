@@ -6,11 +6,12 @@ body
 {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  
+  color: red;
 }
 
 /* CUSTOMIZE THE NAVBAR LOGO
--------------------------------------------------- */
+--------------------------------------------------   color: #5a5a5a;   */
 
 
 
@@ -22,6 +23,7 @@ body
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
+  top:50px;
 
 }
 /* Since positioning the image, we need to help out the caption */
@@ -175,6 +177,7 @@ body
 }
 
 @media (max-width: 62em) {
+
   .featurette-heading {
     margin-top: 7rem;
   }

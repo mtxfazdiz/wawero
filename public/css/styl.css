@@ -53,6 +53,36 @@ a:hover{
   text-decoration: none;
 }
 
+.navbar-nav > li > a {
+    /* (80px - line-height of 27px) / 2 = 26.5px */
+    padding-top: 36.5px;
+    padding-bottom: 36.5px;
+    line-height: 27px;
+  }
+
+.navbar {
+  min-height: 100px;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+  height: 100px;
+  line-height: 100px;
+}
+
+.navbar-toggle {
+  /* (100px - button height 34px) / 2 = 23px     */
+  margin-top: 33px;
+  padding: 9px 10px !important;  
+}
+
+.logo{
+    height:80px;
+    
+    vertical-align: middle;
+
+}
+
 
 
 /* ========= navbar height begin ==========  */
@@ -116,3 +146,4 @@ a:hover{
 
 
 */
+

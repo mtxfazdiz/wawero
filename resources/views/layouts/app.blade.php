@@ -22,7 +22,7 @@
       <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="myNavbar">
         <div id="myLogo" class="container">
           <a class="navbar-left" href="{{ url('/') }}">
-            <img class="logo" src="pic/logo.svg">  
+            <img class="logo" src="pic/logo_c.svg">  
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"  aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -33,7 +33,7 @@
                 <a class="nav-link" href="{{ url('/') }}">Home <span class="sr-only">(current)</span></span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="{{ url('/naszmiod') }}">Nasz miód <span class="sr-only">(current)</span></a>  
+                <a class="nav-link" href="{{ url('/naszmiod') }}">Nasza oferta <span class="sr-only">(current)</span></a>  
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{ url('/onas') }}">O nas <span class="sr-only">(current)</span></a>
@@ -65,7 +65,7 @@
               <div class="carousel-caption text-left">
                 <h1>Miód jest pożywny!</h1>
                 <p>W 80% składa się z cukrów prostych: fruktozy i glukozy.</p>
-                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Sprawdź!</a></p>
+                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Nasza oferta</a></p>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@
               <div class="carousel-caption text-left">
                 <h1>Miód jest smaczny!</h1>
                 <p>Nadaje niepowtarzalny smak potrawom.</p>
-                 <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Sprawdź!</a></p>
+                 <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Nasza oferta</a></p>
               </div>
             </div>
           </div>
@@ -87,7 +87,7 @@
               <div class="carousel-caption text-left">
                 <h1>Miód to naturalne lekarstwo!</h1>
                 <p>Zawiera bogaty zestaw witamin oraz makro i mikroelementów.</p>
-                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Sprawdź!</a></p>
+                <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Nasza oferta</a></p>
               </div>
             </div>
           </div>
