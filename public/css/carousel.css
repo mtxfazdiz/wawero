@@ -60,7 +60,7 @@ body
 
 #third-slide
   {
-  background: url('../pic/3_sm2.jpg') top right no-repeat;
+  background: url('../pic/3_sm2.jpg') top left no-repeat;
   top: 0px;
   }
 
@@ -136,7 +136,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_sm2.jpg') top center no-repeat;
+  background: url('../pic/3_sm2.jpg') top left no-repeat;
   top: 0px;
   }
 }
@@ -171,7 +171,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_sm2.jpg') top center no-repeat;
+  background: url('../pic/3_sm2.jpg') top left no-repeat;
   top: 0px;
   }
 }
@@ -195,7 +195,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_sm2.jpg') top center no-repeat;
+  background: url('../pic/3_sm2.jpg') top left no-repeat;
   top: 0px;
   }
 }
@@ -219,7 +219,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1920.jpg') top center no-repeat;
+  background: url('../pic/3_1920.jpg') top left no-repeat;
   top: 0px;
   }
 }
