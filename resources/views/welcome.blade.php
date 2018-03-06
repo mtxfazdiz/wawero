@@ -17,19 +17,19 @@ HOME &raquo;
     <!-- Three columns of text below the carousel -->
     <div class="row">
           <div class="col-lg-4">
-            <img class="rounded-circle" src="pic/miod_sample.jpg" alt="Miód" width="140">
+            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="140">
             <h2>Miód rzepakowy</h2>
             <p>Miód rzepakowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
             <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="pic/miod_sample.jpg" alt="Miód" width="140">
+            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="140">
             <h2>Miód lipowy</h2>
             <p>Miód lipowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
             <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="pic/miod_sample.jpg" alt="Miód" width="140">
+            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="140">
             <h2>Miód gryczany</h2>
             <p>Miód gryczany uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
             <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
