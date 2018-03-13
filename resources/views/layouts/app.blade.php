@@ -74,8 +74,8 @@
           <div class="carousel-item" id="second-slide">
             <div class="container">
               <div class="carousel-caption text-left">
-                <h1>Miód jest smaczny!</h1>
-                <p>Nadaje niepowtarzalny smak potrawom.</p>
+                <h1>Miód to naturalne lekarstwo!</h1>
+                <p>Zawiera bogaty zestaw witamin oraz makro i mikroelementów.</p>
                  <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Nasza oferta</a></p>
               </div>
             </div>
@@ -85,8 +85,8 @@
           <div class="carousel-item" id="third-slide">
             <div class="container">
               <div class="carousel-caption text-left">
-                <h1>Miód to naturalne lekarstwo!</h1>
-                <p>Zawiera bogaty zestaw witamin oraz makro i mikroelementów.</p>
+                <h1>Miód jest smaczny!</h1>
+                <p>Nadaje niepowtarzalny smak potrawom.</p>
                 <p><a class="btn btn-lg btn-outline-primary" href="#" role="button">Nasza oferta</a></p>
               </div>
             </div>
