@@ -124,7 +124,7 @@ body
 
   #first-slide
   {
-  background: url('../pic/1_750.jpg') top right no-repeat;
+  background: url('../pic/1_750.jpg') top center no-repeat;
   top: 0px;
   }
 
@@ -136,7 +136,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_750.jpg') top right no-repeat;
+  background: url('../pic/3_750.jpg') top center no-repeat;
   top: 0px;
   }
 }
@@ -149,7 +149,7 @@ body
   }
   #first-slide
   {
-  background: url('../pic/1_1125.jpg') top right no-repeat;
+  background: url('../pic/1_1125.jpg') top center no-repeat;
   top: 0px;
   }
 
@@ -161,7 +161,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1125.jpg') top right no-repeat;
+  background: url('../pic/3_1125.jpg') top center no-repeat;
   top: 0px;
   }
 }
@@ -173,7 +173,7 @@ body
   }
   #first-slide
   {
-  background: url('../pic/1_1536.jpg') top right no-repeat;
+  background: url('../pic/1_1536.jpg') top center no-repeat;
   top: 0px;
   }
 
@@ -185,7 +185,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1536.jpg') top right no-repeat;
+  background: url('../pic/3_1536.jpg') top center no-repeat;
   top: 0px;
   }
 }
@@ -195,7 +195,7 @@ body
   }
   #first-slide
   {
-  background: url('../pic/1_1920.jpg') top right no-repeat;
+  background: url('../pic/1_1920.jpg') top center no-repeat;
   top: 0px;
   }
 
@@ -207,7 +207,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_1920.jpg') top right no-repeat;
+  background: url('../pic/3_1920.jpg') top center no-repeat;
   top: 0px;
   }
 }
@@ -217,7 +217,7 @@ body
   }
   #first-slide
   {
-  background: url('../pic/1_2048.jpg') top right no-repeat;
+  background: url('../pic/1_2048.jpg') top center no-repeat;
   top: 0px;
   }
 
@@ -229,7 +229,7 @@ body
 
   #third-slide
   {
-  background: url('../pic/3_2048.jpg') top right no-repeat;
+  background: url('../pic/3_2048.jpg') top center no-repeat;
   top: 0px;
   }
 }
