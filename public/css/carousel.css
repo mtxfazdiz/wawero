@@ -46,7 +46,7 @@ body
 }
 
 
-#first-slide
+/*#first-slide
   {
   background: url('../pic/1_992.jpg') top center no-repeat;
   top: 0px;
@@ -62,7 +62,7 @@ body
   {
   background: url('../pic/3_992.jpg') top center no-repeat;
   top: 0px;
-  }
+  }*/
 
 
 
@@ -105,8 +105,7 @@ body
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
-
-@media (max-width: 480px) {
+@media (min-width: 300px) and (max-width: 375px) {
   /* Bump up size of carousel content */
   .carousel-caption p {
     margin-bottom: 1.25rem;
@@ -117,12 +116,37 @@ body
   .featurette-heading {
     font-size: 50px;
   }
+  #first-slide
+  {
+  background: url('../pic/1_375.jpg') top center no-repeat;
+  top: 0px;
+  }
 
+  #second-slide
+  {
+  background: url('../pic/2_375.jpg') top center no-repeat;
+  top: 0px;
+  }
 
+  #third-slide
+  {
+  background: url('../pic/3_375.jpg') top center no-repeat;
+  top: 0px;
+  }
+}
+@media (min-width: 376px) and (max-width: 480px) {
+  
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
 
+  .featurette-heading {
+    font-size: 50px;
+  }
 
-
-  /*#first-slide
+  #first-slide
   {
   background: url('../pic/1_480.jpg') top center no-repeat;
   top: 0px;
@@ -138,11 +162,9 @@ body
   {
   background: url('../pic/3_480.jpg') top center no-repeat;
   top: 0px;
-  }*/
+  }
 }
-
-
-@media (max-width: 768px) {
+@media (min-width: 481px) and (max-width: 768px) {
 
   .featurette-heading {
     margin-top: 7rem;
@@ -165,9 +187,7 @@ body
   top: 0px;
   }
 }
-
-
-@media (max-width: 812px) {
+@media (min-width: 769px) and (max-width: 812px) {
   .featurette-heading {
     margin-top: 7rem;
   }
@@ -189,7 +209,7 @@ body
   top: 0px;
   }
 }
-@media (max-width: 992px) {
+@media (min-width: 813px) and (max-width: 992px) {
   .featurette-heading {
     margin-top: 7rem;
   }
@@ -211,7 +231,7 @@ body
   top: 0px;
   }
 }
-@media (max-width: 1024px) {
+@media (min-width: 993px) and (max-width: 1024px) {
   .featurette-heading {
     margin-top: 7rem;
   }
@@ -233,7 +253,7 @@ body
   top: 0px;
   }
 }
-@media (max-width: 1366px) {
+@media (min-width: 1025px) and (max-width: 1366px) {
   .featurette-heading {
     margin-top: 7rem;
   }
@@ -255,7 +275,7 @@ body
   top: 0px;
   }
 }
-@media (max-width: 1920px) {
+@media (min-width: 1367px) and (max-width: 1920px) {
   .featurette-heading {
     margin-top: 7rem;
   }
@@ -277,7 +297,7 @@ body
   top: 0px;
   }
 }
-@media (min-width: 1920px) {
+@media (min-width: 1921px) and (max-width: 2048px) {
   .featurette-heading {
     margin-top: 7rem;
   }
