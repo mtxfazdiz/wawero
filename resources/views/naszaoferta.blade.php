@@ -14,14 +14,14 @@ HOME &raquo;
 	<div class="row">
 	
 
-          <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+          <div class="col-md-4 img-container">
+            <img class="rounded img-bottom" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded" src="pic/sredni_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded img-bottom" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
          <div class="col-md-7"> 
@@ -150,7 +150,7 @@ HOME &raquo;
 
 
 
-    <h2 class="featurette-heading">Miód propolisem</h2>
+    <h2 class="featurette-heading">Miód z propolisem</h2>
 
 	</br>
 	<div class="row">

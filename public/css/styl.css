@@ -92,3 +92,13 @@ a:hover{
 /* ========= navbar height end ========== #301a09; */
 
 
+ .img-container
+{
+  position: relative;
+}
+.img-bottom
+{
+  position: absolute;
+  bottom: 0;
+}
+
