@@ -16,8 +16,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/naszmiod', function () {
-    return view('naszmiod');
+Route::get('/naszaoferta', function () {
+    return view('naszaoferta');
 });
 Route::get('/onas', function () {
     return view('onas');

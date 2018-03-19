@@ -33,7 +33,7 @@
                 <a class="nav-link" href="{{ url('/') }}">Home <span class="sr-only">(current)</span></span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="{{ url('/naszmiod') }}">Nasza oferta <span class="sr-only">(current)</span></a>  
+                <a class="nav-link" href="{{ url('/naszaoferta') }}">Nasza oferta <span class="sr-only">(current)</span></a>  
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{ url('/onas') }}">O nas <span class="sr-only">(current)</span></a>
