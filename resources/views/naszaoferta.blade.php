@@ -14,13 +14,13 @@ HOME &raquo;
 	<div class="row">
 	
 
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
@@ -42,13 +42,13 @@ HOME &raquo;
 	
 
 	
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
@@ -69,13 +69,13 @@ HOME &raquo;
 	
 
 	
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
@@ -97,13 +97,13 @@ HOME &raquo;
 	
 
 	
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
@@ -127,13 +127,13 @@ HOME &raquo;
 	
 
 	
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
@@ -151,19 +151,19 @@ HOME &raquo;
 
 
     <h2 class="featurette-heading">Miód propolisem</h2>
-    
+
 	</br>
 	<div class="row">
 	
 
 	
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
+          <div class="col-md-4">
             <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
