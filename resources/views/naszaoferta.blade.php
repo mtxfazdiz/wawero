@@ -21,7 +21,7 @@ HOME &raquo;
             <img class="rounded" src="pic/sredni_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded img-bottom" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded img-bottom" src="pic/duzy_rzepak.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
          <div class="col-md-7"> 
@@ -42,21 +42,20 @@ HOME &raquo;
 	
 
 	
-          <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+          <div class="col-md-4 img-container">
+            <img class="rounded img-bottom" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded" src="pic/sredni_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded img-bottom" src="pic/duzy_rzepak.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
-        <div class="col-md-7">  
+         <div class="col-md-7"> 
             
             <p class="lead">Miód lipowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-    
-        </div>
+    	</div>
     </div><!-- /.row -->
 
     <hr class="featurette-divider">
@@ -69,21 +68,20 @@ HOME &raquo;
 	
 
 	
-          <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+          <div class="col-md-4 img-container">
+            <img class="rounded img-bottom" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded" src="pic/sredni_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded img-bottom" src="pic/duzy_rzepak.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
-        <div class="col-md-7">  
+         <div class="col-md-7"> 
             
             <p class="lead">Miód lipowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-    
-        </div>
+    	</div>
     </div><!-- /.row -->
 
     <hr class="featurette-divider">
@@ -97,21 +95,20 @@ HOME &raquo;
 	
 
 	
-          <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+          <div class="col-md-4 img-container">
+            <img class="rounded img-bottom" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded" src="pic/sredni_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded img-bottom" src="pic/duzy_rzepak.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
-        <div class="col-md-7">  
+         <div class="col-md-7"> 
             
             <p class="lead">Miód lipowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-    
-        </div>
+    	</div>
     </div><!-- /.row -->
 
     
@@ -127,21 +124,20 @@ HOME &raquo;
 	
 
 	
-          <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+          <div class="col-md-4 img-container">
+            <img class="rounded img-bottom" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded" src="pic/sredni_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded img-bottom" src="pic/duzy_rzepak.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
-        <div class="col-md-7">  
+         <div class="col-md-7"> 
             
             <p class="lead">Miód lipowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-    
-        </div>
+    	</div>
     </div><!-- /.row -->
 
     
@@ -157,21 +153,20 @@ HOME &raquo;
 	
 
 	
-          <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+          <div class="col-md-4 img-container">
+            <img class="rounded img-bottom" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded" src="pic/sredni_gryczany.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           <div class="col-md-4">
-            <img class="rounded" src="pic/maly_gryczany.jpg" alt="Miód" width="200">
+            <img class="rounded img-bottom" src="pic/duzy_rzepak.jpg" alt="Miód" width="200">
           </div><!-- /.col-lg-4 -->
           
-        <div class="col-md-7">  
+         <div class="col-md-7"> 
             
             <p class="lead">Miód lipowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-    
-        </div>
+    	</div>
     </div><!-- /.row -->
 
     
