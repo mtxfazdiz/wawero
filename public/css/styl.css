@@ -102,7 +102,7 @@ a:hover{
   bottom: 0;
 }
 
-.marketing .col-md-5 {
+.marketing .col-md-5, .col-md-4 {
     margin-bottom: 1.5rem;
     text-align: center;
 }
