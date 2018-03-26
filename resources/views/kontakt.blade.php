@@ -24,7 +24,6 @@
     				<li class="list-group-item border-white"><b>kontakt@miodywigor.pl</b></li>
   				</ul>
 			</div>
-
     	</div>
     
 
