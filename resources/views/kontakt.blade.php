@@ -19,7 +19,8 @@
     				<li class="list-group-item border-white">Rogity 3AB</li>
     				<li class="list-group-item border-white">14-500 Braniewo</li>    				
     				<li class="list-group-item border-white">Woj. Warmińsko-Mazurskie</li>
-    				<li class="list-group-item border-white"><h3>+48 730 816 661</h3></li>
+    				<li class="list-group-item border-white"><b>+48 730 816 661</b></li>
+    				<li class="list-group-item border-white"><b>kontakt@miodywigor.pl</b></li>
   				</ul>
 			</div>
 

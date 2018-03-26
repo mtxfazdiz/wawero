@@ -8,7 +8,7 @@
 
 
 <div class="container marketing">
-	<div class="row paddTop15"></div>
+	<div class="row paddTop50"></div>
 	<div class="row featurette">
           <div class="col-md-6">
             <h2 class="featurette-heading">O nas</h2>
