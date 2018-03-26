@@ -8,8 +8,9 @@
 
 <div class="container marketing">
 	<div class="row paddTop15"></div>
+
 	<div class="row featurette">
-		<dic class="col-md-1"></dic>
+		<div class="col-md-1"></div>
     	<div class="col-md-6 d-flex align-items-center">
 
     		<div class="card border-white" style="width: 30rem;">
@@ -31,7 +32,7 @@
     <div class="col-md-4 d-flex align-items-center">
     	<div class="card border-white" style="width: 30rem;">
   			<ul class="list-group list-group-flush">
-    			<li class="list-group-item border-white"><img class="featurette-image" src="pic/qr.svg" alt="QR" width="300"></li>
+    			<li class="list-group-item border-white"><img class="featurette-image" src="pic/qr.svg" alt="QR" ></li>
     			<li class="list-group-item border-white">Zeskanuj kod aby dodać kontakt</li>
   			</ul>
 		</div>
