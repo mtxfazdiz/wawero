@@ -100,7 +100,7 @@ HOME &raquo;
   					<div class="card-body tab-content" >
     					<div role="tabpanel" class="tab-pane" id="wielokwiat_maly">
     						<div class="card border-white" style="width: 200px;">
-  								<img class="card-img-top" src="pic/maly_gryczany.jpg" alt="Card image cap">
+  								<img class="card-img-top" src="pic/maly_wielokwiat.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
     								<li class="list-group-item border-white"><b>Cena: 13 zł</b></li>
@@ -109,7 +109,7 @@ HOME &raquo;
     					</div>
     					<div role="tabpanel" class="tab-pane active" id="wielokwiat_sredni">
     						<div class="card border-white" style="width: 200px;">
-  								<img class="card-img-top" src="pic/sredni_gryczany.jpg" alt="Card image cap">
+  								<img class="card-img-top" src="pic/sredni_wielokwiat.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
     								<li class="list-group-item border-white"><b>Cena: 18 zł</b></li>
@@ -118,7 +118,7 @@ HOME &raquo;
     					</div>
     					<div role="tabpanel" class="tab-pane" id="wielokwiat_duzy">
     						<div class="card border-white" style="width: 200px;">
-  								<img class="card-img-top" src="pic/duzy_rzepak.jpg" alt="Card image cap">
+  								<img class="card-img-top" src="pic/duzy_wielokwiat.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 1000 g </li>
     								<li class="list-group-item border-white"><b>Cena: 36 zł</b></li>
