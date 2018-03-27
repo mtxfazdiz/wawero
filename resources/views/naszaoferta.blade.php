@@ -38,25 +38,25 @@ HOME &raquo;
   					<div class="card-body tab-content" >
     					<div role="tabpanel" class="tab-pane" id="lipa_maly">
     						<div class="card border-white" style="width: 200px;">
-  								<img class="card-img-top" src="pic/maly_gryczany.jpg" alt="Card image cap">
+  								<img class="card-img-top" src="pic/maly_lipa.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
     								<li class="list-group-item border-white"><b>Cena: 15 zł</b></li>
     							</ul>
 							</div>
     					</div>
-    					<div role="tabpanel" class="tab-pane active" id="lipa_sredni">
+    					<div role="tabpanel" class="tab-pane" id="lipa_sredni">
     						<div class="card border-white" style="width: 200px;">
-  								<img class="card-img-top" src="pic/sredni_gryczany.jpg" alt="Card image cap">
+  								<img class="card-img-top" src="pic/sredni_lipa.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
     								<li class="list-group-item border-white"><b>Cena: 20 zł</b></li>
     							</ul>
 							</div>
     					</div>
-    					<div role="tabpanel" class="tab-pane" id="lipa_duzy">
+    					<div role="tabpanel" class="tab-pane active" id="lipa_duzy">
     						<div class="card border-white" style="width: 200px;">
-  								<img class="card-img-top" src="pic/duzy_rzepak.jpg" alt="Card image cap">
+  								<img class="card-img-top" src="pic/duzy_lipa.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 1000 g </li>
     								<li class="list-group-item border-white"><b>Cena: 40 zł</b></li>

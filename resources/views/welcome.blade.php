@@ -44,7 +44,7 @@ HOME &raquo;
         <div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading">100 lat tradycji! <span class="text-muted">Hodujemy pszczoły od 3 pokoleń.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <p class="lead">Rodzinna tradycja pszczelarska sięga 1905 roku. Nabyta od tego czasu wiedza oraz doświadczenie jest przekazywane z pokolenia na pokolenie.</p>
           </div>
           <div class="col-md-5">
             <img class="featurette-image img-fluid mx-auto" src="pic/rodzice.jpg" alt="Rodzice">
@@ -56,7 +56,7 @@ HOME &raquo;
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
             <h2 class="featurette-heading">Pszczelarstwo to nasza pasja. <span class="text-muted">Pozyskujemy miód najwyższej jakości.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <p class="lead">Zamiłowanie i pasja do pszczół oraz zdobyte doświadczenie umożliwia nam pozyskiwanie miodów najwyższej jakości.</p>
           </div>
           <div class="col-md-5 order-md-1">
             <img class="featurette-image img-fluid mx-auto" src="pic/beekeeper.jpg" alt="Beekeeper">
