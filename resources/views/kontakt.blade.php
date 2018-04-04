@@ -14,7 +14,26 @@
     	<div class="col-md-6 d-flex align-items-center">
 
     		<div class="card border-white" style="width: 30rem;">
-  				<ul class="list-group list-group-flush">
+
+    			<h2>Kontakt</h2>
+    			<p></p>
+    			<p class="contact"><b>Nasz adres:</b></p>
+    			<p class="contact paddLeft10">Gospodarstwo pasieczne "Miody Wigor"</p>
+    			<p class="contact paddLeft10">Piotr Wawryszczuk</p>
+    			<p class="contact paddLeft10">Rogity 3AB</p>
+    			<p class="contact paddLeft10">14-500 Braniewo</p>
+    			<p class="contact paddLeft10">Woj. Warmińsko-Mazurskie</p>
+    			<p></p>
+    			<p class="contact"><b>Zamówienia:</b></p>
+    			<p class="contact paddLeft10">+48 730 816 661</p>
+    			
+
+
+
+
+
+  				<!-- <ul class="list-group list-group-flush">
+  				<p class="contact">kontakt@miodywigor.pl</p>
     				<li class="list-group-item border-white"><h2>Kontakt</h2></li>
     				<li class="list-group-item border-white">Gospodarstwo pasieczne "Miody Wigor"</li>
     				<li class="list-group-item border-white">Piotr Wawryszczuk</li>
@@ -23,16 +42,16 @@
     				<li class="list-group-item border-white">Woj. Warmińsko-Mazurskie</li>
     				<li class="list-group-item border-white"><b>+48 730 816 661</b></li>
     				<li class="list-group-item border-white"><b>kontakt@miodywigor.pl</b></li>
-  				</ul>
+  				</ul> -->
 			</div>
     	</div>
     
 
 
     <div class="col-md-4 d-flex align-items-center">
-    	<div class="card border-white" style="width: 30rem;">
+    	<div class="card border-white">
   			<ul class="list-group list-group-flush">
-    			<li class="list-group-item border-white"><img class="featurette-image" src="pic/qr.svg" alt="QR" ></li>
+    			<li class="list-group-item border-white"><img class="featurette-image img-fluid mx-auto" src="pic/qr.svg" alt="QR" ></li>
     			<li class="list-group-item border-white">Zeskanuj kod aby dodać kontakt</li>
   			</ul>
 		</div>

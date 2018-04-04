@@ -117,3 +117,13 @@ a:hover{
 .paddTop50{
   height: 50px;
 }
+
+.contact{
+  line-height: 1;
+}
+.paddLeft10{
+  padding-left: 10px;
+}
+.widthCIT {
+    width: 140px;
+}

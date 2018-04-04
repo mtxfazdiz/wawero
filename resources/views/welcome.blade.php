@@ -14,27 +14,43 @@ HOME &raquo;
 
 <div class="container marketing">
 
-    <!-- Three columns of text below the carousel -->
-    <div class="row">
-          <div class="col-md-4">
-            <img class="rounded" src="pic/sredni_rzepak.jpg" alt="Miód" width="140">
-            <h2>Miód rzepakowy</h2>
-            <p>Miód rzepakowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-            <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
-          </div><!-- /.col-lg-4 -->
-          <div class="col-md-4">
-            <img class="rounded" src="pic/sredni_lipa.jpg" alt="Miód" width="140">
-            <h2>Miód lipowy</h2>
-            <p>Miód lipowy uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-            <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
-          </div><!-- /.col-lg-4 -->
-          <div class="col-md-4">
-            <img class="rounded" src="pic/sredni_gryczany.jpg" alt="Miód" width="140">
-            <h2>Miód gryczany</h2>
-            <p>Miód gryczany uznawany jest przez wielu znawców za najlepszy w smaku miód. Wynika to z jego bogatej zawartości. Miód ten jest trudny w produkcji i zarazem bogaty w składniki wszechstronnie poprawiające nasze zdrowie.</p>
-            <p><a class="btn btn-outline-secondary" href="#" role="button">Nasza oferta &raquo;</a></p>
-          </div><!-- /.col-lg-4 -->
-    </div><!-- /.row -->
+
+
+  <div class="card-deck">
+  <div class="card text-center border-white">
+    <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_rzepak.jpg" alt="Card image cap" width="140">
+    <div class="card-body">
+      <h5 class="card-title">Miód rzepakowy</h5>
+      <p class="card-text">Posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: więcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową.</p>
+    </div>
+    <div class="card-footer bg-white border-white">
+      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+    </div>
+  </div>
+  <div class="card text-center border-white">
+    <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_lipa.jpg" alt="Card image cap" width="140">
+    <div class="card-body">
+      <h5 class="card-title">Miód lipowy</h5>
+      <p class="card-text">Działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płóc.</p>
+    </div>
+    <div class="card-footer bg-white border-white">
+      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+    </div>
+  </div>
+  <div class="card text-center border-white">
+    <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_gryczany.jpg" alt="Card image cap" width="140">
+    <div class="card-body">
+      <h5 class="card-title">Miód gryczany</h5>
+      <p class="card-text">Zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, oraz przeciwdziała miażdżycy.</p>
+    </div>
+    <div class="card-footer bg-white border-white">
+      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+    </div>
+  </div>
+</div>
+
+
+
 
 
      <!-- START THE FEATURETTES -->
@@ -71,7 +87,7 @@ HOME &raquo;
             <p class="lead">Nasza pasieka znajduje się na terenie województwa Warmińsko - Mazurskiego zwanego zielonymi płucami Polski. </p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="pic/3rd.jpg" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="pic/3rd.jpg" alt="Bees">
           </div>
         </div>
 
