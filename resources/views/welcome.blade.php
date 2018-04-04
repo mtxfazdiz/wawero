@@ -67,8 +67,8 @@ HOME &raquo;
 
         <div class="row featurette">
           <div class="col-md-7">
-            <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            <h2 class="featurette-heading">Warmia i Mazury. <span class="text-muted">Zielone płuca Polski.</span></h2>
+            <p class="lead">Nasza pasieka znajduje się na terenie województwa Warmińsko - Mazurskiego zwanego zielonymi płucami Polski. </p>
           </div>
           <div class="col-md-5">
             <img class="featurette-image img-fluid mx-auto" src="pic/3rd.jpg" alt="Generic placeholder image">

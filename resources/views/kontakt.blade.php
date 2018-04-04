@@ -17,6 +17,7 @@
   				<ul class="list-group list-group-flush">
     				<li class="list-group-item border-white"><h2>Kontakt</h2></li>
     				<li class="list-group-item border-white">Gospodarstwo pasieczne "Miody Wigor"</li>
+    				<li class="list-group-item border-white">Piotr Wawryszczuk</li>
     				<li class="list-group-item border-white">Rogity 3AB</li>
     				<li class="list-group-item border-white">14-500 Braniewo</li>    				
     				<li class="list-group-item border-white">Woj. Warmińsko-Mazurskie</li>
