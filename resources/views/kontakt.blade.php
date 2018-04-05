@@ -17,15 +17,15 @@
 
     			<h2>Kontakt</h2>
     			<p></p>
-    			<p class="contact lead"><b>Nasz adres:</b></p>
-    			<p class="contact paddLeft10 lead">Gospodarstwo pasieczne "Miody Wigor"</p>
-    			<p class="contact paddLeft10 lead">Piotr Wawryszczuk</p>
-    			<p class="contact paddLeft10 lead">Rogity 3AB</p>
-    			<p class="contact paddLeft10 lead">14-500 Braniewo</p>
-    			<p class="contact paddLeft10 lead">Woj. Warmińsko-Mazurskie</p>
+    			<p class=" lead"><b>Nasz adres:</b></p>
+    			<p class=" paddLeft10 lead">Gospodarstwo pasieczne "Miody Wigor"</p>
+    			<p class=" paddLeft10 lead">Piotr Wawryszczuk</p>
+    			<p class=" paddLeft10 lead">Rogity 3AB</p>
+    			<p class=" paddLeft10 lead">14-500 Braniewo</p>
+    			<p class=" paddLeft10 lead">Woj. Warmińsko-Mazurskie</p>
     			<p></p>
-    			<p class="contact lead"><b>Zamówienia:</b></p>
-    			<p class="contact paddLeft10 lead">+48 730 816 661</p>
+    			<p class=" lead"><b>Zamówienia:</b></p>
+    			<p class=" paddLeft10 lead">+48 730 816 661</p>
     			
 
 
@@ -52,7 +52,7 @@
     	<div class="card border-white">
   			<ul class="list-group list-group-flush">
     			<li class="list-group-item border-white"><img class="featurette-image img-fluid mx-auto" src="pic/qr.svg" alt="QR" ></li>
-    			<li class="list-group-item border-white">Zeskanuj kod aby dodać kontakt</li>
+    			<li class="list-group-item border-white lead">Zeskanuj kod aby dodać kontakt</li>
   			</ul>
 		</div>
     </div>
