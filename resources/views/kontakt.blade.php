@@ -26,23 +26,6 @@
     			<p></p>
     			<p class=" lead"><b>Zamówienia:</b></p>
     			<p class=" paddLeft10 lead">+48 730 816 661</p>
-    			
-
-
-
-
-
-  				<!-- <ul class="list-group list-group-flush">
-  				<p class="contact">kontakt@miodywigor.pl</p>
-    				<li class="list-group-item border-white"><h2>Kontakt</h2></li>
-    				<li class="list-group-item border-white">Gospodarstwo pasieczne "Miody Wigor"</li>
-    				<li class="list-group-item border-white">Piotr Wawryszczuk</li>
-    				<li class="list-group-item border-white">Rogity 3AB</li>
-    				<li class="list-group-item border-white">14-500 Braniewo</li>    				
-    				<li class="list-group-item border-white">Woj. Warmińsko-Mazurskie</li>
-    				<li class="list-group-item border-white"><b>+48 730 816 661</b></li>
-    				<li class="list-group-item border-white"><b>kontakt@miodywigor.pl</b></li>
-  				</ul> -->
 			</div>
     	</div>
     

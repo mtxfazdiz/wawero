@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
+    <link rel="icon" type="image/png" href="pic/favicon.png">
 
     <title>@yield('title') {{config('app.name')}} </title>
 
@@ -106,11 +106,18 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+
+
+
         @yield('content')
+
+
+
+
       <!-- FOOTER -->
       <footer class="container">
         <p class="float-right"><a href="#">Do góry</a></p>
-        <p>&copy; <?php echo date("Y"); ?> &middot; Miody Wigor <!-- &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p> -->
+        <p>&copy; 2017 - <?php echo date("Y"); ?> &middot; Miody Wigor <!-- &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p> -->
       </footer>
 
     </main>

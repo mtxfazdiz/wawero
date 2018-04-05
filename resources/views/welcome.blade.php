@@ -59,7 +59,7 @@ HOME &raquo;
 
         <div class="row featurette">
           <div class="col-md-7">
-            <h2 class="featurette-heading">100 lat tradycji! <span class="text-muted">Hodujemy pszczoły od 3 pokoleń.</span></h2>
+            <h2 class="featurette-heading">100 lat tradycji! <span class="text-muted">Hodujemy pszczoły od 4 pokoleń.</span></h2>
             <p class="lead">Rodzinna tradycja pszczelarska sięga 1905 roku. Nabytą od tego czasu wiedzę oraz doświadczenie przekazujemy z pokolenia na pokolenie.</p>
           </div>
           <div class="col-md-5">
