@@ -21,7 +21,7 @@ HOME &raquo;
     <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_rzepak.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód rzepakowy</h5>
-      <p class="card-text">Posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową.</p>
+      <p class="card-text lead">Posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową.</p>
     </div>
     <div class="card-footer bg-white border-white">
       <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
@@ -31,7 +31,7 @@ HOME &raquo;
     <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_lipa.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód lipowy</h5>
-      <p class="card-text">Działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc.</p>
+      <p class="card-text lead">Działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc.</p>
     </div>
     <div class="card-footer bg-white border-white">
       <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
@@ -41,7 +41,7 @@ HOME &raquo;
     <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_gryczany.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód gryczany</h5>
-      <p class="card-text">Zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, oraz przeciwdziała miażdżycy.</p>
+      <p class="card-text lead">Zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, oraz przeciwdziała miażdżycy.</p>
     </div>
     <div class="card-footer bg-white border-white">
       <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>

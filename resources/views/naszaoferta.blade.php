@@ -70,7 +70,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód lipowy</h2>
-            		<p>Miód lipowy działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc, usówa kaszel, stosowany przy przeziębieniach, grypie, stanach zapalnych błon śluzowych.</p>	
+            		<p class="lead">Miód lipowy działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc, usówa kaszel, stosowany przy przeziębieniach, grypie, stanach zapalnych błon śluzowych.</p>	
     		</span>
     	</div>
     	<dic class="col-md-1"></dic>
@@ -132,7 +132,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód wielokwiatowy</h2>
-            		<p>Miód wielokwiatowy znajduje zastosowanie w stanach przeziębienia, wzmacnia organizm przed infekcjami oraz łagodzi objawy alergii i kataru. Wspomaga pracę wątroby, zapobiega chorobom woreczka żółciowego oraz minimalizuje problemy z jelitami. Stosuje się go jako naturalny antybiotyk, hamujący rozwój niepożądanych bakterii.</p>	
+            		<p class="lead">Miód wielokwiatowy znajduje zastosowanie w stanach przeziębienia, wzmacnia organizm przed infekcjami oraz łagodzi objawy alergii i kataru. Wspomaga pracę wątroby, zapobiega chorobom woreczka żółciowego oraz minimalizuje problemy z jelitami. Stosuje się go jako naturalny antybiotyk, hamujący rozwój niepożądanych bakterii.</p>	
     		</span>
     	</div>
     	<dic class="col-md-1"></dic>
@@ -195,7 +195,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód rzepakowy</h2>
-            		<p>Miód rzepakowy posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową. Cholina w nim zawarta usówa tłuszcze wątroby i wzmaga działanie pęcherzyka żółciowego. Przyśpiesza leczenie wrzodów trawiennych żołądka i dwunastnicy.</p>	
+            		<p class="lead">Miód rzepakowy posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową. Cholina w nim zawarta usówa tłuszcze wątroby i wzmaga działanie pęcherzyka żółciowego. Przyśpiesza leczenie wrzodów trawiennych żołądka i dwunastnicy.</p>	
     		</span>
     	</div>
     	<dic class="col-md-1"></dic>
@@ -246,7 +246,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód gryczany</h2>
-            		<p>Miód gryczany zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, reguluje przepustowość ścianek włosowatych naczyń krwionośnych, tym samym przeciwdziała miażdżycy. Zalecany w nerwicach i stanach wyczerpania psychicznego. Reguluje rytm pracy serca.</p>	
+            		<p class="lead">Miód gryczany zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, reguluje przepustowość ścianek włosowatych naczyń krwionośnych, tym samym przeciwdziała miażdżycy. Zalecany w nerwicach i stanach wyczerpania psychicznego. Reguluje rytm pracy serca.</p>	
     		</span>
     	</div>
     	<dic class="col-md-1"></dic>
@@ -298,7 +298,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód z pyłkiem kwiatowym</h2>
-            		<p>Miód z pyłkiem kwiatowym jest niezwykle cennym źródłem składników odżywczych. Zawiera makro i mikro elementy (wapń, żelazo, magnez). Stanowi bogate źródło witamin B1, B2 oraz witaminy C. Wskazany jest przy leczeniu anemii. Spożywanie go wzmacnia organizm oraz podnosi jego odporność. Zalecany przy leczeniu między innymi dróg żółciowych, miażdżycy, w chorobie wrzodowej żołądka i dwunastnicy. Ma działanie przeciwbakteryjne.</p>	
+            		<p class="lead">Miód z pyłkiem kwiatowym jest niezwykle cennym źródłem składników odżywczych. Zawiera makro i mikro elementy (wapń, żelazo, magnez). Stanowi bogate źródło witamin B1, B2 oraz witaminy C. Wskazany jest przy leczeniu anemii. Spożywanie go wzmacnia organizm oraz podnosi jego odporność. Zalecany przy leczeniu między innymi dróg żółciowych, miażdżycy, w chorobie wrzodowej żołądka i dwunastnicy. Ma działanie przeciwbakteryjne.</p>	
     		</span>
     	</div>
     	<dic class="col-md-1"></dic>
@@ -350,7 +350,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód z propolisem</h2>
-            		<p>Miód z propolisem działa wzmacniająco. Pomaga w leczeniu wątroby. Działa odtruwająco. Dzięki swoim właściwościom przeciwzapalnym stosowany jest w stanach zapalnych górnych i dolnych dróg oddechowych. Ma silne działanie przeciwbakteryjne i przeciwgrzybiczne.</p>	
+            		<p class="lead">Miód z propolisem działa wzmacniająco. Pomaga w leczeniu wątroby. Działa odtruwająco. Dzięki swoim właściwościom przeciwzapalnym stosowany jest w stanach zapalnych górnych i dolnych dróg oddechowych. Ma silne działanie przeciwbakteryjne i przeciwgrzybiczne.</p>	
     		</span>
     	</div>
     	<dic class="col-md-1"></dic>

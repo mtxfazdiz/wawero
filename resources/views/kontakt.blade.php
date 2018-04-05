@@ -17,15 +17,15 @@
 
     			<h2>Kontakt</h2>
     			<p></p>
-    			<p class="contact"><b>Nasz adres:</b></p>
-    			<p class="contact paddLeft10">Gospodarstwo pasieczne "Miody Wigor"</p>
-    			<p class="contact paddLeft10">Piotr Wawryszczuk</p>
-    			<p class="contact paddLeft10">Rogity 3AB</p>
-    			<p class="contact paddLeft10">14-500 Braniewo</p>
-    			<p class="contact paddLeft10">Woj. Warmińsko-Mazurskie</p>
+    			<p class="contact lead"><b>Nasz adres:</b></p>
+    			<p class="contact paddLeft10 lead">Gospodarstwo pasieczne "Miody Wigor"</p>
+    			<p class="contact paddLeft10 lead">Piotr Wawryszczuk</p>
+    			<p class="contact paddLeft10 lead">Rogity 3AB</p>
+    			<p class="contact paddLeft10 lead">14-500 Braniewo</p>
+    			<p class="contact paddLeft10 lead">Woj. Warmińsko-Mazurskie</p>
     			<p></p>
-    			<p class="contact"><b>Zamówienia:</b></p>
-    			<p class="contact paddLeft10">+48 730 816 661</p>
+    			<p class="contact lead"><b>Zamówienia:</b></p>
+    			<p class="contact paddLeft10 lead">+48 730 816 661</p>
     			
 
 
