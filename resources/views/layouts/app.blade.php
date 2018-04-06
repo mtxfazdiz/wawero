@@ -120,12 +120,27 @@
         <p>&copy; <?php echo date("Y"); ?> &middot; Miody Wigor <!-- &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p> -->
       </footer>
 
+
     </main>
+
+
+    <!-- COOKIES -->
+    <div class="alert alert-dismissible text-center cookiealert" role="alert">
+      <div class="cookiealert-container">
+        <b>Ciasteczka najlepiej smakują z miodem!</b> &#x1F36A; Nasza strona używa plików "cookies". <a href="https://pl.wikipedia.org/wiki/HTTP_cookie" target="_blank">Sprawdź o co chodzi</a>
+
+        <button type="button" class="btn btn-outline-primary btn-sm acceptcookies" aria-label="Close">
+            Ok, rozumiem
+        </button>
+      </div>
+    </div>
+<!-- /COOKIES -->
 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/cookiealert-standalone.js"></script>
     <script src="js/jquery-3.2.1.slim.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="js/popper.min.js"></script>
