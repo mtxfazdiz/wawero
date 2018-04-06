@@ -350,7 +350,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód z propolisem</h2>
-            		<p class="lead">Miód z propolisem działa wzmacniająco. Pomaga w leczeniu wątroby. Działa odtruwająco. Dzięki swoim właściwościom przeciwzapalnym stosowany jest w stanach zapalnych górnych i dolnych dróg oddechowych. Ma silne działanie przeciwbakteryjne i przeciwgrzybiczne.</p>	
+            		<p class="lead">Miód z propolisem działa wzmacniająco, pomaga w leczeniu wątroby, działa odtruwająco. Dzięki swoim właściwościom przeciwzapalnym stosowany jest w stanach zapalnych górnych i dolnych dróg oddechowych. Ma silne działanie przeciwbakteryjne i przeciwgrzybiczne.</p>	
     		</span>
     	</div>
     	<dic class="col-md-1"></dic>
