@@ -195,7 +195,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód rzepakowy</h2>
-            		<p class="lead">Miód rzepakowy posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową. Cholina w nim zawarta usówa tłuszcze wątroby i wzmaga działanie pęcherzyka żółciowego. Przyśpiesza leczenie wrzodów trawiennych żołądka i dwunastnicy.</p>	
+            		<p class="lead">Miód rzepakowy posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową. Cholina w nim zawarta usuwa tłuszcze wątroby i wzmaga działanie pęcherzyka żółciowego. Przyśpiesza leczenie wrzodów trawiennych żołądka i dwunastnicy.</p>	
     		</span>
     	</div>
     	<dic class="col-md-1"></dic>
