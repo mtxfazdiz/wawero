@@ -330,7 +330,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/maly_propolis.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 16 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 18 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -339,7 +339,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/sredni_propolis.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 22 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 25 zł</b></li>
     							</ul>
 							</div>
     					</div>
