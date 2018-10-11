@@ -58,7 +58,7 @@ Nasza oferta &raquo;
     						<div class="card border-white" style="width: 200px;">
   								<img class="card-img-top" src="pic/duzy_lipa.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
-    								<li class="list-group-item border-white">Waga: 1000 g </li>
+    								<li class="list-group-item border-white">Waga: 950 g </li>
     								<li class="list-group-item border-white"><b>Cena: 40 zł</b></li>
     							</ul>
 							</div>
@@ -120,7 +120,7 @@ Nasza oferta &raquo;
     						<div class="card border-white" style="width: 200px;">
   								<img class="card-img-top" src="pic/duzy_wielokwiat.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
-    								<li class="list-group-item border-white">Waga: 1000 g </li>
+    								<li class="list-group-item border-white">Waga: 950 g </li>
     								<li class="list-group-item border-white"><b>Cena: 36 zł</b></li>
     							</ul>
 							</div>
@@ -183,7 +183,7 @@ Nasza oferta &raquo;
     						<div class="card border-white" style="width: 200px;">
   								<img class="card-img-top" src="pic/duzy_rzepak.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
-    								<li class="list-group-item border-white">Waga: 1000 g </li>
+    								<li class="list-group-item border-white">Waga: 950 g </li>
     								<li class="list-group-item border-white"><b>Cena: 36 zł</b></li>
     							</ul>
 							</div>
@@ -339,7 +339,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/sredni_propolis.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 25 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena950 zł</b></li>
     							</ul>
 							</div>
     					</div>
