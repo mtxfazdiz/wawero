@@ -435,7 +435,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
           <span>
             <h2>Pyłek kwiatowy</h2>
-              <p class="lead">Pyłek kwiatowy jest tak zwaną bombą witaminową. Uzupełnia dzienne racje żywnościowe w aminokwasy, biopierwiastki, witaminy. Wzmacnia apetyt, reguluje przemianę materii, wzmacnia organizm, regeneruje. Osłania tkankę wątrobową przed zatruciem substancjami toksycznymi, ułatwia wydalanie toksyn. Ułatwia odnawianie tkanki wątrobowej uszkodzonej innymi przewlekłymi chorobami, przyjmowaniem dużej ilości leków. Podnosi odporność organizmu oraz działa przeciwmiażdżycowo.
+              <p class="lead">Pyłek kwiatowy jest tak zwaną bombą witaminową. Uzupełnia dzienne racje żywnościowe w aminokwasy, biopierwiastki, witaminy. Wzmacnia apetyt, reguluje przemianę materii, wzmacnia organizm. Podnosi odporność organizmu oraz działa przeciwmiażdżycowo.
               </p>  
           </span>
       </div>
