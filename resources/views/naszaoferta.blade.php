@@ -70,7 +70,7 @@ Nasza oferta &raquo;
         <div class="col-md-5 d-flex align-items-center">
         	<span>
         			<h2>Miód lipowy</h2>
-            		<p class="lead">Miód lipowy działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc, usówa kaszel, stosowany przy przeziębieniach, grypie, stanach zapalnych błon śluzowych.</p>	
+            		<p class="lead">Miód lipowy działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc, usuwa kaszel, stosowany przy przeziębieniach, grypie, stanach zapalnych błon śluzowych.</p>	
     		</span>
     	</div>
     	<div class="col-md-1"></div>
