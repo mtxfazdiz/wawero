@@ -22,6 +22,9 @@ body
     border-color: blue;
     border-style: solid;
 }
+.newsLeft{
+    text-align: left;
+}
 
 .btn-outline-primary {
   color: #FFFFFF;
@@ -163,6 +166,8 @@ a:hover{
 
 
 
-
+.newsLeft{
+    text-align: left;
+}
 
 

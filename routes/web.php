@@ -25,3 +25,8 @@ Route::get('/onas', function () {
 Route::get('/kontakt', function () {
     return view('kontakt');
 });
+
+
+//Route::get('/', 'NewsletterController@index')->name('index');
+Route::post('/newsletter_send', ['uses' => 'NewsletterController@newsletterSend', 'as' => 'send']);
+Route::get('/newsletter_delete/{code}', ['uses' => 'NewsletterController@newsletterDelete', 'as' => 'delete']);

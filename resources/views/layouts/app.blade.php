@@ -111,13 +111,16 @@
 
         @yield('content')
 
-
+      
 
 
       <!-- FOOTER -->
       <footer class="container">
+        @include('newsletter.index')
+      
+        <p></p>
         <p class="float-right"><a href="#">Do góry</a></p>
-        <p>&copy; <?php echo date("Y"); ?> &middot; Miody Wigor <!-- &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p> -->
+        <p>&copy; <?php echo date("Y"); ?> &middot; Miody Wigor </p>
       </footer>
 
 
