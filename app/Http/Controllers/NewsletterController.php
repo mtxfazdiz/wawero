@@ -35,7 +35,7 @@ class NewsletterController extends Controller
 
         Mail::send('newsletter.emails.newsletterNew', $data, function($message) use($data) {
             $message->to('mtxfazdiz@gmail.com');
-            $message->from('mtxfazdiz@gmail.com');
+            $message->from('mtx@mtx.pl');
             $message->subject( 'ktoś dopisał się do newslettera' );
         });
 
@@ -64,7 +64,7 @@ class NewsletterController extends Controller
 
         $data = array(
             'email' => $user->email,
-            'subject' => 'temat z metody newsletterDelete',
+            'subject' => 'ktoś wypisał się z newslettera',
             );    
 
         Mail::send('newsletter.emails.newsletterDelete', $data, function($message) use($data) {

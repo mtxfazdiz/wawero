@@ -9,7 +9,7 @@
 			<!-- <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}"> -->
   				<div class="form-group">
     				<p><b>Zapisz się do newslettera!</b></p>
-    				<input type="email" name="email" class="form-control form-control-sm" placeholder="wpisz e-maila" required unique>
+    				<input type="email" name="email" class="form-control form-control-sm" placeholder="wpisz e-mail" required>
     				<small class="form-text text-muted">Nigdy nie udostępnimy Twojego e-maila.</small>
     				<!-- @if ($errors->has('email'))
                         <span class="help-block">

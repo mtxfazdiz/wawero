@@ -9,12 +9,12 @@ HOME &raquo;
 
 	<div class="container">
 		<div class="row featurette">
-        	<div class="col-md-8"></div>
-        	<div class="col-md-8">
+        	<div class="col-md-2"></div>
+        	<div class="col-md-8 newsCenter">
             	<h2 class="featurette-heading">E-mail dodany do newslettera.</h2>
             	<p class="lead">Dziękujemy!</p>
           	</div>
-          	<div class="col-md-8"></div>
+          	<div class="col-md-2"></div>
         </div>	
         <hr class="featurette-divider">
 	</div>
