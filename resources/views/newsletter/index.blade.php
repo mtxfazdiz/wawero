@@ -2,14 +2,14 @@
 
 
 <div class="row"> <!-- start row -->
-	<div class="col-md-3 newsLeft"> <!-- start col-md-3 -->
+	<div class="col-md-4 newsLeft"> <!-- start col-md-3 -->
 		<form action="{{ route('send') }}" role="form" method="post">
 			<!-- <input name="_method" type="hidden" value="PATCH"> -->
 			{{ csrf_field() }}	
 			<!-- <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}"> -->
   				<div class="form-group">
     				<p><b>Zapisz się do newslettera!</b></p>
-    				<input type="email" name="email" class="form-control form-control-sm" placeholder="wpisz e-maila" required>
+    				<input type="email" name="email" class="form-control form-control-sm" placeholder="wpisz e-maila" required unique>
     				<small class="form-text text-muted">Nigdy nie udostępnimy Twojego e-maila.</small>
     				<!-- @if ($errors->has('email'))
                         <span class="help-block">
@@ -43,7 +43,7 @@
 		</p>	
 	</div><!-- end col-md-8 -->
 
-	<div class="col-md-2 offset-md-1"><!-- start col-md-3 -->
+	<div class="col-md-2"><!-- start col-md-3 -->
 		<p><b>Zamówienia:</b>
 		</p>
 			+48 730 816 661</br>

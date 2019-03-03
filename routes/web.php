@@ -28,5 +28,15 @@ Route::get('/kontakt', function () {
 
 
 //Route::get('/', 'NewsletterController@index')->name('index');
-Route::post('/newsletter_send', ['uses' => 'NewsletterController@newsletterSend', 'as' => 'send']);
-Route::get('/newsletter_delete/{code}', ['uses' => 'NewsletterController@newsletterDelete', 'as' => 'delete']);
+Route::post('/newsletter_send', [
+	'uses' => 'NewsletterController@newsletterSend', 
+	'as' => 'send']);
+
+Route::get('/newsletter_delete/{code}', [
+	'uses' => 'NewsletterController@newsletterDelete', 
+	'as' => 'delete']);
+
+Route::get('/newsletter/', [
+	'uses' => 'NewsletterController@index', 
+	'as' => 'newsletter.index']);
+

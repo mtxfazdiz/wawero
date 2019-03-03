@@ -2,10 +2,14 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\NewsletterValidator;
 use App\Newsletter;
 use Illuminate\Http\Request;
+//use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Mail;
+
+//use Illuminate\Http\Request\NewsletterValidator;
 
 class NewsletterController extends Controller
 {
@@ -16,18 +20,12 @@ class NewsletterController extends Controller
      */
     public function index()
     {
-        return view('index');
+        return view('newsletter.newsletter');
     }
 
-    public function newsletterSend(Request $request)
+    public function newsletterSend(NewsletterValidator $request)
     {
-        $this->validate($request, [
-            "email" => "required|email|max:40|unique:newsletters",
-            "name" => "required|max:30"
-            ]);
-
         $code = str_random(40);
-
         $data = array(
             'email' => $request->email,
             'name' => $request->name,
@@ -53,7 +51,8 @@ class NewsletterController extends Controller
         $news->code = $code;
         $news->save();
 
-        return view('welcome');
+        return redirect()->route('newsletter.index');
+        //return view('welcome');
     }
 
     public function newsletterDelete($code)
