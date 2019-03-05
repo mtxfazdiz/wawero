@@ -31,17 +31,22 @@ class NewsletterController extends Controller
             'name' => $request->name,
             'subject' => 'Witaj ' . $request->name,
             'code' => $code,
-            );    
-
-        Mail::send('newsletter.emails.newsletterNew', $data, function($message) use($data) {
+            );  
+            
+        //for ($i=0; $i=1000; $i++){
+            Mail::send('newsletter.emails.newsletterNew', $data, function($message) use($data) {
             $message->to('mtxfazdiz@gmail.com');
-            $message->from('mtx@mtx.pl');
+            $message->from('kontakt@miodywigor.pl');
             $message->subject( 'ktoś dopisał się do newslettera' );
         });
 
+        //}
+        
+     
+
         Mail::send('newsletter.emails.newsletterUser', $data, function($message) use($data) {
             $message->to($data['email']);
-            $message->from('mtxfazdiz@gmail.com');
+            $message->from('kontakt@miodywigor.pl');
             $message->subject($data['subject']);
         }); 
 

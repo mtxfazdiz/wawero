@@ -1,4 +1,4 @@
-<p>Nowa subskrypcja: {{ $email }}</p>
+<p>Nowa subskrypcja:  {{ $email }} </p>
 
 
 
