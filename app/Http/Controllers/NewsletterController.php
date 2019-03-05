@@ -33,15 +33,11 @@ class NewsletterController extends Controller
             'code' => $code,
             );  
             
-        //for ($i=0; $i=1000; $i++){
             Mail::send('newsletter.emails.newsletterNew', $data, function($message) use($data) {
             $message->to('mtxfazdiz@gmail.com');
             $message->from('kontakt@miodywigor.pl');
             $message->subject( 'ktoś dopisał się do newslettera' );
         });
-
-        //}
-        
      
 
         Mail::send('newsletter.emails.newsletterUser', $data, function($message) use($data) {
