@@ -25,6 +25,9 @@ Route::get('/onas', function () {
 Route::get('/kontakt', function () {
     return view('kontakt');
 });
+Route::get('/wspolpraca', function () {
+    return view('wspolpraca');
+});
 
 
 //Route::get('/', 'NewsletterController@index')->name('index');

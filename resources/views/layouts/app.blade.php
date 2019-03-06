@@ -36,6 +36,9 @@
                 <a class="nav-link" href="{{ url('/naszaoferta') }}">Nasza oferta <span class="sr-only">(current)</span></a>  
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="{{ url('/wspolpraca') }}">Współpraca <span class="sr-only">(current)</span></a>  
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="{{ url('/onas') }}">O nas <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">

@@ -6,7 +6,7 @@ HOME &raquo;
 
 @section('content')
 
-
+  <div class="row paddTop15"></div>
 	<div class="container">
 		<div class="row featurette">
         	<div class="col-md-2"></div>
