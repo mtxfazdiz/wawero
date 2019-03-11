@@ -10,8 +10,8 @@
   				<div class="form-group">
     				<p><b>Zapisz się do newslettera!</b></p>
     				<input type="email" name="email" class="form-control form-control-sm" placeholder="wpisz e-mail" required>
-    				<small class="form-text text-muted">Nigdy nie udostępnimy Twojego e-maila.</small>
-    				<!-- @if ($errors->has('email'))
+    				<!-- <small class="form-text text-muted">Nigdy nie udostępnimy Twojego e-maila.</small>
+    				 @if ($errors->has('email'))
                         <span class="help-block">
                             <strong>{{ $errors->first('email') }}</strong>
                         </span>
