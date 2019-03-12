@@ -51,18 +51,3 @@
 		</p>
 	</div>
 </div> <!-- end row -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <p class=" lead"></p>
-    	<p class=" paddLeft10 lead"></p> -->

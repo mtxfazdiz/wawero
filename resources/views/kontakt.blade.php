@@ -11,7 +11,7 @@
 
 	<div class="row featurette">
 		<div class="col-md-1"></div>
-    	<div class="col-md-6 d-flex align-items-center ramka">
+    	<div class="col-md-6 d-flex align-items-center">
 
     		<div class="card border-white" style="width: 30rem;">
 
@@ -31,7 +31,7 @@
     
 
 
-    <div class="col-md-4 d-flex align-items-center ramkab">
+    <div class="col-md-4 d-flex align-items-center">
     	<div class="card border-white">
   			<ul class="list-group list-group-flush">
     			<li class="list-group-item border-white"><img class="featurette-image img-fluid mx-auto" src="pic/qr.svg" alt="QR" ></li>
