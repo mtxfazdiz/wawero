@@ -29,7 +29,9 @@ Nasza oferta &raquo;
       						<li class="nav-item active">
         						<a class="nav-link" data-toggle="tab" role="tab" href="#lipa_sredni">Średni</a>
       						</li>
-      						
+      						<li class="nav-item">
+        						<a class="nav-link" data-toggle="tab" role="tab" href="#lipa_duzy">Duży</a>
+      						</li>
     					</ul>
   					</div>
 
@@ -39,20 +41,28 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/maly_lipa.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 18 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 15 zł</b></li>
     							</ul>
 							</div>
     					</div>
     					<div role="tabpanel" class="tab-pane active" id="lipa_sredni">
     						<div class="card border-white" style="width: 200px;">
-  							 <img class="card-img-top" src="pic/sredni_lipa.jpg" alt="Card image cap">
-  							   <ul class="list-group list-group-flush border-white">
-    							   <li class="list-group-item border-white">Waga: 400 g </li>
-    							   <li class="list-group-item border-white"><b>Cena: 24 zł</b></li>
-    						  </ul>
-							  </div>
-    				  </div>
-    					
+  								<img class="card-img-top" src="pic/sredni_lipa.jpg" alt="Card image cap">
+  								<ul class="list-group list-group-flush border-white">
+    								<li class="list-group-item border-white">Waga: 400 g </li>
+    								<li class="list-group-item border-white"><b>Cena: 20 zł</b></li>
+    							</ul>
+							</div>
+    					</div>
+    					<div role="tabpanel" class="tab-pane" id="lipa_duzy">
+    						<div class="card border-white" style="width: 200px;">
+  								<img class="card-img-top" src="pic/duzy_lipa.jpg" alt="Card image cap">
+  								<ul class="list-group list-group-flush border-white">
+    								<li class="list-group-item border-white">Waga: 950 g </li>
+    								<li class="list-group-item border-white"><b>Cena: 40 zł</b></li>
+    							</ul>
+							</div>
+    					</div>
 					</div>
 			</div>	
 
@@ -81,6 +91,9 @@ Nasza oferta &raquo;
       						<li class="nav-item active">
         						<a class="nav-link" data-toggle="tab" role="tab" href="#wielokwiat_sredni">Średni</a>
       						</li>
+      						<li class="nav-item">
+        						<a class="nav-link" data-toggle="tab" role="tab" href="#wielokwiat_duzy">Duży</a>
+      						</li>
     					</ul>
   					</div>
 
@@ -90,7 +103,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/maly_wielokwiat.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 16 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 13 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -99,7 +112,16 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/sredni_wielokwiat.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 22 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 18 zł</b></li>
+    							</ul>
+							</div>
+    					</div>
+    					<div role="tabpanel" class="tab-pane" id="wielokwiat_duzy">
+    						<div class="card border-white" style="width: 200px;">
+  								<img class="card-img-top" src="pic/duzy_wielokwiat.jpg" alt="Card image cap">
+  								<ul class="list-group list-group-flush border-white">
+    								<li class="list-group-item border-white">Waga: 950 g</li>
+    								<li class="list-group-item border-white"><b>Cena: 36 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -132,6 +154,9 @@ Nasza oferta &raquo;
       						<li class="nav-item active">
         						<a class="nav-link" data-toggle="tab" role="tab" href="#rzepak_sredni">Średni</a>
       						</li>
+      						<li class="nav-item">
+        						<a class="nav-link" data-toggle="tab" role="tab" href="#rzepak_duzy">Duży</a>
+      						</li>
     					</ul>
   					</div>
 
@@ -141,7 +166,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/maly_rzepak.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 16 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 13 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -150,7 +175,16 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/sredni_rzepak.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 22 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 18 zł</b></li>
+    							</ul>
+							</div>
+    					</div>
+    					<div role="tabpanel" class="tab-pane" id="rzepak_duzy">
+    						<div class="card border-white" style="width: 200px;">
+  								<img class="card-img-top" src="pic/duzy_rzepak.jpg" alt="Card image cap">
+  								<ul class="list-group list-group-flush border-white">
+    								<li class="list-group-item border-white">Waga: 950 g </li>
+    								<li class="list-group-item border-white"><b>Cena: 36 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -192,7 +226,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/maly_gryczany.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 19 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 16 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -201,7 +235,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/sredni_gryczany.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 26 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 22 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -222,7 +256,7 @@ Nasza oferta &raquo;
 
 
 
-	<div class="row paddTop15"></div> <!-- z pyłkiem kwiatowym -->
+	<div class="row paddTop15"></div> <!-- pylek -->
 	<div class="row featurette">
 		<div class="col-md-1"></div>
         <div class="col-md-5">
@@ -244,7 +278,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/maly_pylek.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 21 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 18 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -253,7 +287,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/sredni_pylek.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 29 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 25 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -296,7 +330,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/maly_propolis.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush">
     								<li class="list-group-item border-white">Waga: 250 g </li>
-    								<li class="list-group-item border-white"><b>Cena: 21 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena: 18 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -305,7 +339,7 @@ Nasza oferta &raquo;
   								<img class="card-img-top" src="pic/sredni_propolis.jpg" alt="Card image cap">
   								<ul class="list-group list-group-flush border-white">
     								<li class="list-group-item border-white">Waga: 400 g </li>
-    								<li class="list-group-item border-white"><b>Cena 29 zł</b></li>
+    								<li class="list-group-item border-white"><b>Cena 25 zł</b></li>
     							</ul>
 							</div>
     					</div>
@@ -347,7 +381,7 @@ Nasza oferta &raquo;
                   <img class="card-img-top" src="pic/sredni_nektarowo_spadziowy.jpg" alt="Card image cap">
                   <ul class="list-group list-group-flush border-white">
                     <li class="list-group-item border-white">Waga: 400 g </li>
-                    <li class="list-group-item border-white"><b>Cena 24 zł</b></li>
+                    <li class="list-group-item border-white"><b>Cena 20 zł</b></li>
                   </ul>
               </div>
               </div>
@@ -363,7 +397,7 @@ Nasza oferta &raquo;
           </span>
       </div>
     <div class="col-md-1"></div>
-  </div> <!-- nektar-spadz end -->
+  </div> <!-- propolis end -->
 
   <hr class="featurette-divider">
 
@@ -390,7 +424,7 @@ Nasza oferta &raquo;
                   <img class="card-img-top" src="pic/sredni_pylek_kwiatowy.jpg" alt="Card image cap">
                   <ul class="list-group list-group-flush border-white">
                     <li class="list-group-item border-white">Waga: 200 g </li>
-                    <li class="list-group-item border-white"><b>Cena 25 zł</b></li>
+                    <li class="list-group-item border-white"><b>Cena 22 zł</b></li>
                   </ul>
               </div>
               </div>

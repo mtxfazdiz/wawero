@@ -14,6 +14,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link href="css/styl.css" rel="stylesheet">
   </head>
   <body>
@@ -31,6 +32,9 @@
              <ul class="navbar-nav mr-auto pl-5">
               <li class="nav-item">
                 <a class="nav-link" href="{{ url('/') }}">Home <span class="sr-only">(current)</span></span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{ url('/jak') }}">Jak kupić? <span class="sr-only">(current)</span></a>  
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{ url('/naszaoferta') }}">Nasza oferta <span class="sr-only">(current)</span></a>  

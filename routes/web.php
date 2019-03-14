@@ -28,7 +28,9 @@ Route::get('/kontakt', function () {
 Route::get('/wspolpraca', function () {
     return view('wspolpraca');
 });
-
+Route::get('/jak', function () {
+    return view('jak');
+});
 
 //Route::get('/', 'NewsletterController@index')->name('index');
 Route::post('/newsletter_send', [
