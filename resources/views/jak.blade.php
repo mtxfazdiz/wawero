@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-HOME &raquo;
+Jak kupić nasze produkty? &raquo;
 @endsection
 
 @section('content')

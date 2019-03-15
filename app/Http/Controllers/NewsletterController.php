@@ -34,7 +34,7 @@ class NewsletterController extends Controller
             );  
             
             Mail::send('newsletter.emails.newsletterNew', $data, function($message) use($data) {
-            $message->to('mtxfazdiz@gmail.com');
+            $message->to('kontakt@miodywigor.pl');
             $message->from('kontakt@miodywigor.pl');
             $message->subject( 'ktoś dopisał się do newslettera' );
         });
@@ -53,7 +53,6 @@ class NewsletterController extends Controller
         $news->save();
 
         return redirect()->route('newsletter.index');
-        //return view('welcome');
     }
 
     public function newsletterDelete($code)
@@ -69,8 +68,8 @@ class NewsletterController extends Controller
             );    
 
         Mail::send('newsletter.emails.newsletterDelete', $data, function($message) use($data) {
-            $message->to('mtxfazdiz@gmail.com');
-            $message->from('mtxfazdiz@gmail.com');
+            $message->to('kontakt@miodywigor.pl');
+            $message->from('kontakt@miodywigor.pl');
             $message->subject($data['subject']);
         });
         newsletter::where('code', $code)->delete();
