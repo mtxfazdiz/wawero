@@ -1,6 +1,8 @@
-<p>Nowa subskrypcja: miodywigor.pl </p>
-<p>imię:  {{ $name }} </p>
-<p>e-mail:  {{ $email }} </p>
+<p>
+	Nowa subskrypcja do newslettera<br>
+	imię:  {{ $name }}<br>
+	e-mail:  {{ $email }}<br>
+</p>
 
 
 

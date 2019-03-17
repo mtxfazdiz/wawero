@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-HOME &raquo;
+Usunięcie subskrypcji &raquo;
 @endsection
 
 @section('content')
@@ -12,7 +12,7 @@ HOME &raquo;
         	<div class="col-md-2"></div>
         	<div class="col-md-8 newsCenter">
             	<h2 class="featurette-heading">Usunięcie subskrybcji</h2>
-            	<p class="lead">{{ $email }}</p>
+            	<p class="lead">Dziękujemy!</p>
           	</div>
           	<div class="col-md-2"></div>
         </div>	
@@ -22,4 +22,4 @@ HOME &raquo;
         
 
 
-@endsections
+@endsection

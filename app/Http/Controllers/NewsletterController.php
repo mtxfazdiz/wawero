@@ -22,6 +22,10 @@ class NewsletterController extends Controller
     {
         return view('newsletter.newsletter');
     }
+    public function deleted()
+    {
+        return view('newsletter.pageDelete');
+    }
 
     public function newsletterSend(NewsletterValidator $request)
     {
@@ -74,6 +78,8 @@ class NewsletterController extends Controller
         });
         newsletter::where('code', $code)->delete();
 
-        return view('newsletter.pageDelete');
+        //return view('newsletter.pageDelete');
+        return redirect()->route('newsletter.deleted');
+
     }    
 }

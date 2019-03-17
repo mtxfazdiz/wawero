@@ -33,7 +33,7 @@
 			@endif
 		</form>
 	</div><!-- end col-md-3 -->
-	<div class="col-md-4 offset-md-1 newsLeft"><!-- start col-md-3 -->
+	<div class="col-md-4 newsLeft"><!-- start col-md-3 -->
 		<p><b>Nasz adres:</b>
 		<p>
 			Gospodarstwo pasieczne "Miody Wigor"</br>
@@ -43,7 +43,7 @@
 		</p>	
 	</div><!-- end col-md-8 -->
 
-	<div class="col-md-2"><!-- start col-md-3 -->
+	<div class="col-md-4"><!-- start col-md-3 -->
 		<p><b>Zamówienia:</b>
 		</p>
 			+48 730 816 661</br>

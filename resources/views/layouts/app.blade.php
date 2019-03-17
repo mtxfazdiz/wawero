@@ -10,12 +10,12 @@
     <title>@yield('title') {{config('app.name')}} </title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ url('/') }}/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/carousel.css" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link href="css/styl.css" rel="stylesheet">
+    <link href="{{ url('/') }}/css/carousel.css" rel="stylesheet">
+    <link href="{{ url('/') }}/css/styl.css" rel="stylesheet">
   </head>
   <body>
 
@@ -23,7 +23,7 @@
       <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="myNavbar">
         <div id="myLogo" class="container">
           <a class="navbar-left" href="{{ url('/') }}">
-            <img class="logo" src="pic/logo_c.svg">  
+            <img class="logo" src="{{ url('/') }}/pic/logo_c.svg">  
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"  aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -137,10 +137,10 @@
     <!-- COOKIES -->
     <div class="alert alert-dismissible text-center cookiealert" role="alert">
       <div class="cookiealert-container">
-        <b>Ciasteczka najlepiej smakują z miodem!</b> &#x1F36A; Nasza strona używa plików "cookies". <a href="https://pl.wikipedia.org/wiki/HTTP_cookie" target="_blank">Sprawdź o co chodzi</a>
+        <b>Ciasteczka najlepiej smakują z miodem!</b> &#x1F36A; Zgadzasz się na użycie plików "cookies"? <a href="https://pl.wikipedia.org/wiki/HTTP_cookie" target="_blank">Sprawdź o co chodzi</a>
 
         <button type="button" class="btn btn-outline-primary btn-sm acceptcookies" aria-label="Close">
-            Ok, rozumiem
+            Ok, zgadzam się
         </button>
       </div>
     </div>
@@ -150,10 +150,12 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/cookiealert-standalone.js"></script>
-    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="{{ url('/') }}/js/cookiealert-standalone.js"></script>
+    <script src="{{ url('/') }}/js/jquery-3.2.1.slim.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="{{ url('/') }}/js/popper.min.js"></script>
+    <script src="{{ url('/') }}/js/bootstrap.min.js"></script>
   </body>
 </html>
+
+

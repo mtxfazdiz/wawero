@@ -41,6 +41,10 @@ Route::get('/newsletter_delete/{code}', [
 	'uses' => 'NewsletterController@newsletterDelete', 
 	'as' => 'delete']);
 
+Route::get('/newsletter/deleted/', [
+	'uses' => 'NewsletterController@deleted', 
+	'as' => 'newsletter.deleted']);
+
 Route::get('/newsletter/', [
 	'uses' => 'NewsletterController@index', 
 	'as' => 'newsletter.index']);
