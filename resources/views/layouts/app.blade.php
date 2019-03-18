@@ -20,7 +20,7 @@
   <body>
 
     <header>
-      <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="myNavbar">
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light" id="myNavbar">
         <div id="myLogo" class="container">
           <a class="navbar-left" href="{{ url('/') }}">
             <img class="logo" src="{{ url('/') }}/pic/logo_c.svg">  

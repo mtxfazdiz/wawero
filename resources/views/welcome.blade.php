@@ -17,7 +17,7 @@ HOME &raquo;
 
   <div class="card-group">
   <div class="card text-center border-white">
-    <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_rzepak.jpg" alt="Card image cap" width="140">
+    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_rzepak.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód rzepakowy</h5>
       <p class="card-text lead">Posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową.</p>
@@ -27,7 +27,7 @@ HOME &raquo;
     </div>
   </div>
   <div class="card text-center border-white">
-    <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_lipa.jpg" alt="Card image cap" width="140">
+    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_lipa.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód lipowy</h5>
       <p class="card-text lead">Działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc.</p>
@@ -37,7 +37,7 @@ HOME &raquo;
     </div>
   </div>
   <div class="card text-center border-white">
-    <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_gryczany.jpg" alt="Card image cap" width="140">
+    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_gryczany.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód gryczany</h5>
       <p class="card-text lead">Zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, oraz przeciwdziała miażdżycy.</p>
@@ -62,7 +62,7 @@ HOME &raquo;
             <p class="lead">Rodzinna tradycja pszczelarska sięga 1905 roku. Nabytą od tego czasu wiedzę oraz doświadczenie przekazujemy z pokolenia na pokolenie.</p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="pic/rodzice.jpg" alt="Rodzice">
+            <img class="featurette-image img-fluid mx-auto" src="{{ url('/') }}/pic/rodzice.jpg" alt="Rodzice">
           </div>
         </div>
 
@@ -74,7 +74,7 @@ HOME &raquo;
             <p class="lead">Zamiłowanie i pasja do pszczół oraz zdobyte doświadczenie umożliwia nam pozyskiwanie miodów najwyższej jakości.</p>
           </div>
           <div class="col-md-5 order-md-1">
-            <img class="featurette-image img-fluid mx-auto" src="pic/beekeeper.jpg" alt="Beekeeper">
+            <img class="featurette-image img-fluid mx-auto" src="{{ url('/') }}/pic/beekeeper.jpg" alt="Beekeeper">
           </div>
         </div>
 
@@ -86,7 +86,7 @@ HOME &raquo;
             <p class="lead">Nasza pasieka znajduje się na terenie województwa Warmińsko - Mazurskiego zwanego zielonymi płucami Polski. </p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="pic/3rd.jpg" alt="Bees">
+            <img class="featurette-image img-fluid mx-auto" src="{{ url('/') }}/pic/3rd.jpg" alt="Bees">
           </div>
         </div>
 

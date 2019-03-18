@@ -62,24 +62,46 @@ class NewsletterController extends Controller
     public function newsletterDelete($code)
     {
         $users = DB::table('newsletters')->where('code',$code)->get();
-
         foreach ($users as $user) {
+            }
+
+        if ( !$users->isEmpty() ){
+            $data = array(
+                'email' => $user->email,
+                'subject' => 'ktoś wypisał się z newslettera',
+                );    
+
+            Mail::send('newsletter.emails.newsletterDelete', $data, function($message) use($data) {
+                $message->to('kontakt@miodywigor.pl');
+                $message->from('kontakt@miodywigor.pl');
+                $message->subject($data['subject']);
+            });
+            newsletter::where('code', $code)->delete();
+
+            
+            return redirect()->route('newsletter.deleted');     
         }
+        else{
+            return view('welcome');
 
-        $data = array(
-            'email' => $user->email,
-            'subject' => 'ktoś wypisał się z newslettera',
-            );    
 
-        Mail::send('newsletter.emails.newsletterDelete', $data, function($message) use($data) {
-            $message->to('kontakt@miodywigor.pl');
-            $message->from('kontakt@miodywigor.pl');
-            $message->subject($data['subject']);
-        });
-        newsletter::where('code', $code)->delete();
 
-        //return view('newsletter.pageDelete');
-        return redirect()->route('newsletter.deleted');
+            
+                
 
+              
+        }
+            
+       
+
+
+
+
+
+
+
+        
+
+        
     }    
 }

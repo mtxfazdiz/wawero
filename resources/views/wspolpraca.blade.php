@@ -15,10 +15,10 @@ Współpraca &raquo;
 <div class="container marketing ">
   <div class="row paddTop15"></div>
   <div class="row featurette">
-    <div class="col-md-6 d-flex align-items-left">
+    <div class="col-md-5">
       <img class="featurette-image img-fluid mx-auto" src="pic/3miodyNew.jpg" alt="Miody"> 
     </div>
-    <div class="col-md-6 d-flex align-items-left">
+    <div class="col-md-7 d-flex align-items-left">
       
         <form action="{{ route('send') }}" role="form" method="post">
         {{ csrf_field() }}  
