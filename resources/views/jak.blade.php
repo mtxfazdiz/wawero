@@ -14,8 +14,7 @@ Jak kupić nasze produkty? &raquo;
 	<div class="row paddTop50"></div>
 	<div class="card-group">
   		<div class="card text-center border-white">
-  			<i class="material-icons" style="font-size:200px;color:rgb(150,150,150);">shopping_cart</i>
-    		<!-- <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_rzepak.jpg" alt="Card image cap" width="140"> -->
+  			<i class="material-icons" style="font-size:170px;color:rgb(150,150,150);">shopping_cart</i>
     		<div class="card-body">
       			<h5 class="card-title">Krok 1</h5>
       			<p class="card-text lead">Wybierz produkty, które Cię interesują.</p>
@@ -25,8 +24,7 @@ Jak kupić nasze produkty? &raquo;
     		</div>
   		</div>
   		<div class="card text-center border-white">
-  			<i class="material-icons" style="font-size:200px;color:rgb(150,150,150);">forum</i>
-    		<!-- <img class="card-img-top mx-auto d-block widthCIT" src="pic/sredni_lipa.jpg" alt="Card image cap" width="140"> -->
+  			<i class="material-icons" style="font-size:170px;color:rgb(150,150,150);">forum</i>
     		<div class="card-body">
       			<h5 class="card-title">Krok 2</h5>
       			<p class="card-text lead">Skontaktuj się z nami aby złożyć zamówienie.</p>
@@ -36,13 +34,13 @@ Jak kupić nasze produkty? &raquo;
     		</div>
   		</div>
   		<div class="card text-center border-white">
-    		<i class="material-icons" style="font-size:200px;color:rgb(150,150,150);">group_add</i>
+    		<i class="material-icons" style="font-size:170px;color:rgb(150,150,150);">group_add</i>
     		<div class="card-body">
       			<h5 class="card-title">Krok 3</h5>
       			<p class="card-text lead">Odbierz paczkę i dołącz do grona zadowolonych klientów.</p>
     		</div>
     		<div class="card-footer bg-white border-white">
-      			<p><a class="btn btn-outline-secondary" href="https://fb.com/miodywigor" role="button">Facebook &raquo;</a></p>
+      			<p><a class="btn btn-outline-secondary" href="https://fb.com/miodywigor" role="button" target="_blank">Facebook &raquo;</a></p>
     		</div>
   		</div>
 	</div>

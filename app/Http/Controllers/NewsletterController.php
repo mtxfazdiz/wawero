@@ -79,29 +79,8 @@ class NewsletterController extends Controller
             newsletter::where('code', $code)->delete();
 
             
-            return redirect()->route('newsletter.deleted');     
+               
         }
-        else{
-            return view('welcome');
-
-
-
-            
-                
-
-              
-        }
-            
-       
-
-
-
-
-
-
-
-        
-
-        
+        return redirect()->route('newsletter.deleted');    
     }    
 }
