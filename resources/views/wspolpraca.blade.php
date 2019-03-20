@@ -31,15 +31,6 @@ Współpraca &raquo;
             <input type="text" name="name" class="form-control form-control" placeholder="wpisz swoje imię" required>
           </div>
           <button type="submit" class="btn btn-sm btn-outline-secondary">Wyślij</button>
-          @if ($errors->any())
-            <div class="alert alert-danger">
-              <ul>
-                @foreach ($errors->all() as $error)
-                  <li>{{ $error }}</li>
-                @endforeach
-              </ul>
-            </div>
-          @endif
         </form> 
          
     </div>
