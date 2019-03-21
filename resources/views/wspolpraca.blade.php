@@ -20,7 +20,7 @@ Współpraca &raquo;
     </div>
     <div class="col-md-7 d-flex align-items-left">
       
-        <form action="{{ route('send') }}" role="form" method="post">
+        <form action="{{ route('ofertaSend') }}" role="form" method="post">
         {{ csrf_field() }}  
           <div class="form-group">
             <h2 class="featurette-heading">Jesteś zainteresowany współpracą?</h2>

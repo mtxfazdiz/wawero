@@ -36,7 +36,6 @@ Route::get('/jak', function () {
 Route::post('/newsletter_send', [
 	'uses' => 'NewsletterController@newsletterSend', 
 	'as' => 'send']);
-
 Route::get('/newsletter_delete/{code}', [
 	'uses' => 'NewsletterController@newsletterDelete', 
 	'as' => 'delete']);
@@ -44,8 +43,25 @@ Route::get('/newsletter_delete/{code}', [
 Route::get('/newsletter/deleted/', [
 	'uses' => 'NewsletterController@deleted', 
 	'as' => 'newsletter.deleted']);
-
 Route::get('/newsletter/', [
 	'uses' => 'NewsletterController@index', 
 	'as' => 'newsletter.index']);
+
+
+
+
+
+
+
+Route::post('/oferta_send', [
+	'uses' => 'NewsletterController@wspolpracaSend', 
+	'as' => 'ofertaSend']);
+
+
+
+
+Route::get('/oferta/', [
+	'uses' => 'NewsletterController@oferta', 
+	'as' => 'newsletter.oferta']);
+
 

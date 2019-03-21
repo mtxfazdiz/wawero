@@ -17,6 +17,7 @@ class CreateNewslettersTable extends Migration
             $table->increments('id');
             $table->string('email');
             $table->string('name');
+            $table->string('mode');
             $table->string('code');
             $table->timestamps();
         });

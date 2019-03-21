@@ -18,6 +18,10 @@ class NewsletterController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+    public function oferta()
+    {
+        return view('newsletter.oferta');
+    }
     public function index()
     {
         return view('newsletter.newsletter');
@@ -25,6 +29,39 @@ class NewsletterController extends Controller
     public function deleted()
     {
         return view('newsletter.pageDelete');
+    }
+    public function wspolpracaSend(NewsletterValidator $request)
+    {
+        $code = str_random(40);
+        $data = array(
+            'email' => $request->email,
+            'name' => $request->name,
+            'subject' => 'Witaj ' . $request->name,
+            'code' => $code,
+            'mode' => 'oferta',
+            );  
+            
+            Mail::send('newsletter.emails.ofertaNew', $data, function($message) use($data) {
+            $message->to('kontakt@miodywigor.pl');
+            $message->from('kontakt@miodywigor.pl');
+            $message->subject( 'oferta wysłana' );
+        });
+     
+
+        Mail::send('newsletter.emails.oferta', $data, function($message) use($data) {
+            $message->to($data['email']);
+            $message->from('kontakt@miodywigor.pl');
+            $message->subject($data['subject']);
+        }); 
+
+        $news = new newsletter();
+        $news->email = $request->input('email');
+        $news->name = $request->input('name');
+        $news->code = $code;
+        $news->mode = 'oferta';
+        $news->save();
+
+        return redirect()->route('newsletter.oferta');
     }
 
     public function newsletterSend(NewsletterValidator $request)
@@ -35,6 +72,7 @@ class NewsletterController extends Controller
             'name' => $request->name,
             'subject' => 'Witaj ' . $request->name,
             'code' => $code,
+            'mode' => 'newsletter',
             );  
             
             Mail::send('newsletter.emails.newsletterNew', $data, function($message) use($data) {
@@ -54,6 +92,7 @@ class NewsletterController extends Controller
         $news->email = $request->input('email');
         $news->name = $request->input('name');
         $news->code = $code;
+        $news->mode = 'newsletter';
         $news->save();
 
         return redirect()->route('newsletter.index');

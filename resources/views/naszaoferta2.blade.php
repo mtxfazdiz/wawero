@@ -10,7 +10,7 @@ Nasza oferta &raquo;
 			<div class="container marketing">
 				<div class="card-group">
 				  <div class="card text-center border-white">
-				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_lipa.jpg" alt="Card image cap" width="180">
+				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_lipa.jpg" alt="Card image cap">
 				    <div class="card-body">
 				      <h5 class="card-title">Miód lipowy</h5>
 				      
@@ -30,7 +30,7 @@ Nasza oferta &raquo;
 				    </div>
 				  </div>
 				  <div class="card text-center border-white">
-				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_rzepak.jpg" alt="Card image cap" width="180">
+				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_rzepak.jpg" alt="Card image cap">
 				    <div class="card-body">
 				      <h5 class="card-title">Miód rzepakowy</h5>
 				    </div>
@@ -45,7 +45,7 @@ Nasza oferta &raquo;
 			
 				<div class="card-group">
 				  <div class="card text-center border-white">
-				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_gryczany.jpg" alt="Card image cap" width="140">
+				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_gryczany.jpg" alt="Card image cap">
 				    <div class="card-body">
 				      <h5 class="card-title">Miód gryczany</h5>
 				      
@@ -55,7 +55,7 @@ Nasza oferta &raquo;
 				    </div>
 				  </div>
 				  <div class="card text-center border-white">
-				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_pylek.jpg" alt="Card image cap" width="140">
+				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_pylek.jpg" alt="Card image cap">
 				    <div class="card-body">
 				      <h5 class="card-title">Miód z pyłkiem kwiatowym</h5>
 				      
@@ -65,7 +65,7 @@ Nasza oferta &raquo;
 				    </div>
 				  </div>
 				  <div class="card text-center border-white">
-				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_propolis.jpg" alt="Card image cap" width="140">
+				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_propolis.jpg" alt="Card image cap">
 				    <div class="card-body">
 				      <h5 class="card-title">Miód z propolisem</h5>
 				    </div>
@@ -80,7 +80,7 @@ Nasza oferta &raquo;
 			
 				<div class="card-group">
 				  <div class="card text-center border-white">
-				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_nektarowo_spadziowy.jpg" alt="Card image cap" width="140">
+				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_nektarowo_spadziowy.jpg" alt="Card image cap">
 				    <div class="card-body">
 				      <h5 class="card-title">Miód nektarowo - spadziowy</h5>
 				      
@@ -90,7 +90,7 @@ Nasza oferta &raquo;
 				    </div>
 				  </div>
 				  <div class="card text-center border-white">
-				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_pylek_kwiatowy.jpg" alt="Card image cap" width="140">
+				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_pylek_kwiatowy.jpg" alt="Card image cap">
 				    <div class="card-body">
 				      <h5 class="card-title">Pyłek kwiatowy</h5>
 				      
