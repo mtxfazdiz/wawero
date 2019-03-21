@@ -17,7 +17,7 @@ HOME &raquo;
 
   <div class="card-group">
   <div class="card text-center border-white">
-    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_rzepak.jpg" alt="Card image cap" width="140">
+    <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/sredni_rzepak.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód rzepakowy</h5>
       <p class="card-text lead">Posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową.</p>
@@ -27,7 +27,7 @@ HOME &raquo;
     </div>
   </div>
   <div class="card text-center border-white">
-    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_lipa.jpg" alt="Card image cap" width="140">
+    <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/sredni_lipa.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód lipowy</h5>
       <p class="card-text lead">Działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc.</p>
@@ -37,7 +37,7 @@ HOME &raquo;
     </div>
   </div>
   <div class="card text-center border-white">
-    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/sredni_gryczany.jpg" alt="Card image cap" width="140">
+    <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/sredni_gryczany.jpg" alt="Card image cap" width="140">
     <div class="card-body">
       <h5 class="card-title">Miód gryczany</h5>
       <p class="card-text lead">Zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, oraz przeciwdziała miażdżycy.</p>

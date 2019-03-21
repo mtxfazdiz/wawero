@@ -129,7 +129,10 @@ a:hover{
   padding-left: 10px;
 }
 .widthCIT {
-    width: 140px;
+    width: 200px;
+}
+.widthCITW {
+    width: 160px;
 }
 
 
