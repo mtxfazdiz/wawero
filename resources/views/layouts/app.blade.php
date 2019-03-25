@@ -24,7 +24,7 @@
     
   </head>
   <body>
-
+    @yield('face')
     <header>
       <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light" id="myNavbar">
         <div id="myLogo" class="container">
