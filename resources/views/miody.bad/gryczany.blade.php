@@ -16,7 +16,7 @@ Nasza oferta &raquo;
 <div class="container marketing">
 
 
-<div class="row paddTop15"></div> <!-- gryczany -->
+<div class="row paddTop50"></div> <!-- gryczany -->
   <div class="row featurette">
     <div class="col-md-1"></div>
         <div class="col-md-5">
@@ -34,8 +34,8 @@ Nasza oferta &raquo;
 
             <div class="card-body tab-content" >
               <div role="tabpanel" class="tab-pane" id="gryczany_maly">
-                <div class="card border-white" style="width: 200px;">
-                  <img class="card-img-top" src="../pic/maly_gryczany.jpg" alt="Card image cap">
+                <div class="card border-white" style="width: 400px;">
+                  <img class="card-img-top" src="../pic/k/KwadratMalyGryczany.jpg" alt="Card image cap">
                   <ul class="list-group list-group-flush">
                     <li class="list-group-item border-white">Waga: 250 g </li>
                     <li class="list-group-item border-white"><b>Cena: 19 zł</b></li>
@@ -43,8 +43,8 @@ Nasza oferta &raquo;
               </div>
               </div>
               <div role="tabpanel" class="tab-pane active" id="gryczany_sredni">
-                <div class="card border-white" style="width: 200px;">
-                  <img class="card-img-top" src="../pic/sredni_gryczany.jpg" alt="Card image cap">
+                <div class="card border-white" style="width: 400px;">
+                  <img class="card-img-top" src="../pic/k/KwadratSredniGryczany.jpg" alt="Card image cap">
                   <ul class="list-group list-group-flush border-white">
                     <li class="list-group-item border-white">Waga: 400 g </li>
                     <li class="list-group-item border-white"><b>Cena: 26 zł</b></li>
@@ -63,5 +63,8 @@ Nasza oferta &raquo;
       </div>
       <div class="col-md-1"></div>
   </div> <!-- gryczany end -->
+
+  <hr class="featurette-divider">
+</div>
 
 @endsection

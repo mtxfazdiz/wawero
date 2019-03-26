@@ -16,7 +16,7 @@ Nasza oferta &raquo;
 <div class="container marketing">
 
 
-<div class="row paddTop15"></div> <!-- nektarowo-spadziowy -->
+<div class="row paddTop50"></div> <!-- pyłek kwiatowy -->
     <div class="row featurette">
       <div class="col-md-1"></div>
         <div class="col-md-5">
@@ -24,19 +24,19 @@ Nasza oferta &raquo;
             <div class="card-header bg-white border-white">
               <ul class="nav  card-header-pills border-white">
                   <li class="nav-item active">
-                    <a class="nav-link" data-toggle="tab" role="tab" href="#nektar_sredni">Średni</a>
+                    <a class="nav-link" data-toggle="tab" role="tab" href="#pylek_kwiatowy_sredni">Średni</a>
                   </li>
               </ul>
             </div>
 
             <div class="card-body tab-content" >
               
-              <div role="tabpanel" class="tab-pane active" id="nektar_sredni">
-                <div class="card border-white" style="width: 200px;">
-                  <img class="card-img-top" src="../pic/sredni_nektarowo_spadziowy.jpg" alt="Card image cap">
+              <div role="tabpanel" class="tab-pane active" id="pylek_kwiatowy_sredni">
+                <div class="card border-white" style="width: 400px;">
+                  <img class="card-img-top" src="../pic/k/KwadratSredniPylekKwiatowy.jpg" alt="Card image cap">
                   <ul class="list-group list-group-flush border-white">
-                    <li class="list-group-item border-white">Waga: 400 g </li>
-                    <li class="list-group-item border-white"><b>Cena 24 zł</b></li>
+                    <li class="list-group-item border-white">Waga: 200 g </li>
+                    <li class="list-group-item border-white"><b>Cena 25 zł</b></li>
                   </ul>
               </div>
               </div>
@@ -46,12 +46,15 @@ Nasza oferta &raquo;
         </div>
         <div class="col-md-5 d-flex align-items-center">
           <span>
-            <h2>Miód nektarowo - spadziowy</h2>
-              <p class="lead">Miód nektarowo - spadziowy jest stosowany w schorzeniach serca, układu krążenia, leczeniu dróg oddechowych, zaburzeniach trawienia i stanach zapalnych organizmu. Jest to produkt odrzywczy i odnawiający w stanach wyczerpania fizycznego i psychicznego organizmu.
+            <h2>Pyłek kwiatowy</h2>
+              <p class="lead">Pyłek kwiatowy jest tak zwaną bombą witaminową. Uzupełnia dzienne racje żywnościowe w aminokwasy, biopierwiastki, witaminy. Wzmacnia apetyt, reguluje przemianę materii, wzmacnia organizm. Podnosi odporność organizmu oraz działa przeciwmiażdżycowo.
               </p>  
           </span>
       </div>
     <div class="col-md-1"></div>
+  </div> <!-- propolis end -->
+
+  <hr class="featurette-divider">
   </div> <!-- nektar-spadz end -->
 
   <hr class="featurette-divider">

@@ -35,7 +35,7 @@ Nasza oferta &raquo;
             <div class="card-body tab-content" >
               <div role="tabpanel" class="tab-pane" id="propolis_maly">
                 <div class="card border-white" style="width: 400px;">
-                  <img class="card-img-top" src="../pic/kw/KwadratMalyPropolis.jpg" alt="Card image cap">
+                  <img class="card-img-top" src="../pic/k/KwadratMalyPropolis.jpg" alt="Card image cap">
                   <ul class="list-group list-group-flush">
                     <li class="list-group-item border-white">Waga: 250 g </li>
                     <li class="list-group-item border-white"><b>Cena: 21 zł</b></li>
@@ -44,7 +44,7 @@ Nasza oferta &raquo;
               </div>
               <div role="tabpanel" class="tab-pane active" id="propolis_sredni">
                 <div class="card border-white" style="width: 400px;">
-                  <img class="card-img-top" src="../pic/kw/KwadratSredniPropolis.jpg" alt="Card image cap">
+                  <img class="card-img-top" src="../pic/k/KwadratSredniPropolis.jpg" alt="Card image cap">
                   <ul class="list-group list-group-flush border-white">
                     <li class="list-group-item border-white">Waga: 400 g </li>
                     <li class="list-group-item border-white"><b>Cena 29 zł</b></li>

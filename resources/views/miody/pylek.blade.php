@@ -16,7 +16,7 @@ Nasza oferta &raquo;
 <div class="container marketing">
 
 
-<div class="row paddTop50"></div> <!-- pyłek kwiatowy -->
+<div class="row paddTop15"></div> <!-- pyłek kwiatowy -->
     <div class="row featurette">
       <div class="col-md-1"></div>
         <div class="col-md-5">
@@ -32,8 +32,8 @@ Nasza oferta &raquo;
             <div class="card-body tab-content" >
               
               <div role="tabpanel" class="tab-pane active" id="pylek_kwiatowy_sredni">
-                <div class="card border-white" style="width: 400px;">
-                  <img class="card-img-top" src="../pic/k/KwadratSredniPylekKwiatowy.jpg" alt="Card image cap">
+                <div class="card border-white" style="width: 200px;">
+                  <img class="card-img-top" src="../pic/sredni_pylek_kwiatowy.jpg" alt="Card image cap">
                   <ul class="list-group list-group-flush border-white">
                     <li class="list-group-item border-white">Waga: 200 g </li>
                     <li class="list-group-item border-white"><b>Cena 25 zł</b></li>
@@ -52,12 +52,8 @@ Nasza oferta &raquo;
           </span>
       </div>
     <div class="col-md-1"></div>
-  </div> <!-- propolis end -->
+  </div> <!-- pylek end -->
 
-  <hr class="featurette-divider">
-  </div> <!-- nektar-spadz end -->
-
-  <hr class="featurette-divider">
-</div>
+  
 
 @endsection
