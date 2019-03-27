@@ -9,7 +9,7 @@ Jak kupić nasze produkty? &raquo;
 
 
 <div class="container marketing">
-	<div class="row paddTop15"></div>
+	
 	<h2 class="featurette-heading">Jak kupić nasze produkty?</h2>
 	<div class="row paddTop50"></div>
 	<div class="card-group">

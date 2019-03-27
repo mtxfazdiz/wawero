@@ -13,13 +13,12 @@ Współpraca &raquo;
      
 
 <div class="container marketing ">
-  <div class="row paddTop50"></div>
-  <!-- <div class="row featurette h-100 align-items-center"> -->
+  <h2 class="featurette-heading"></h2>
     <div class="row featurette">
-    <div class="col-md-5 ramka">
+    <div class="col-md-5">
         <img class="featurette-image img-fluid mx-auto" src="pic/3miodyNew.jpg" alt="Miody"> 
     </div>
-    <div class="col-md-7 ramkab">
+    <div class="col-md-7">
       
         <form action="{{ route('ofertaSend') }}" role="form" method="post">
         {{ csrf_field() }}  
