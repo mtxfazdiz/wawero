@@ -14,7 +14,7 @@ Jak kupić nasze produkty? &raquo;
 	<div class="row paddTop50"></div>
 	<div class="card-group">
   		<div class="card text-center border-white">
-  			<i class="material-icons" style="font-size:160px;color:rgb(84,84,84);">shopping_cart</i>
+  			<i class="material-icons" style="font-size:140px;color:rgb(84,84,84);">shopping_cart</i>
     		<div class="card-body">
       			<h5 class="card-title">Krok 1</h5>
       			<p class="card-text lead">Wybierz produkty, które Cię interesują.</p>
@@ -24,7 +24,7 @@ Jak kupić nasze produkty? &raquo;
     		</div>
   		</div>
   		<div class="card text-center border-white">
-  			<i class="material-icons" style="font-size:160px;color:rgb(84,84,84);">forum</i>
+  			<i class="material-icons" style="font-size:140px;color:rgb(84,84,84);">forum</i>
     		<div class="card-body">
       			<h5 class="card-title">Krok 2</h5>
       			<p class="card-text lead">Skontaktuj się z nami aby złożyć zamówienie.</p>
@@ -34,7 +34,7 @@ Jak kupić nasze produkty? &raquo;
     		</div>
   		</div>
   		<div class="card text-center border-white">
-    		<i class="material-icons" style="font-size:160px;color:rgb(84,84,84);">group_add</i>
+    		<i class="material-icons" style="font-size:140px;color:rgb(84,84,84);">group_add</i>
     		<div class="card-body">
       			<h5 class="card-title">Krok 3</h5>
       			<p class="card-text lead">Odbierz paczkę i dołącz do grona zadowolonych klientów.</p>
