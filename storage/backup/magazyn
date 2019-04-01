@@ -1,0 +1,2 @@
+<a href="{{ url('/') }}/newsletter_delete/{{ $code }}" target="_blank">Unsubscribe</a>
+

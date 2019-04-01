@@ -67,12 +67,14 @@ class NewsletterController extends Controller
     public function newsletterSend(NewsletterValidator $request)
     {
         $code = str_random(40);
+        $rabat = str_random(10);
         $data = array(
             'email' => $request->email,
             'name' => $request->name,
-            'subject' => 'Witaj ' . $request->name,
+            'subject' => 'Witamy w Miody Wigor!',
             'code' => $code,
             'mode' => 'newsletter',
+            'rabat' => $rabat,
             );  
             
             Mail::send('newsletter.emails.newsletterNew', $data, function($message) use($data) {
@@ -93,6 +95,7 @@ class NewsletterController extends Controller
         $news->name = $request->input('name');
         $news->code = $code;
         $news->mode = 'newsletter';
+        $news->rabat = $rabat;
         $news->save();
 
         return redirect()->route('newsletter.index');

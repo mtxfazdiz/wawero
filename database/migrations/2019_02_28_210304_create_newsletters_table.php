@@ -19,6 +19,7 @@ class CreateNewslettersTable extends Migration
             $table->string('name');
             $table->string('mode');
             $table->string('code');
+            $table->string('rabat');
             $table->timestamps();
         });
     }
