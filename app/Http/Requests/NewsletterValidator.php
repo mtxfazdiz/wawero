@@ -37,6 +37,7 @@ class NewsletterValidator extends FormRequest
         'email.unique' => 'Ten email jest już zapisany.',
         //'email' => 'unique:users,email_address'
         'name.required'  => 'Pole imię jest wymagane.',
+        'validation.email' => 'Wpisz poprawny email.',
     ];
 }
 }
