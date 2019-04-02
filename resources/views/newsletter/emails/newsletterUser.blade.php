@@ -1,11 +1,11 @@
-<h1 style="text-align: center;">Dziękujemy za subskrypcję {{ $name }}.<br>
-Cieszymy się, że jesteś z nami!</h1>
+<h3 style="text-align: center;">Dzień dobry {{ $name }}! Dziękujemy za subskrypcję.<br>
+Cieszymy się, że jesteś z nami!</h3>
 <br>
-<p style="text-align: center;">Od czasu do czasu napiszemy co u nas słychać a tymczasem chcielibyśmy oferować Ci specjalny kod:</p>
+<p style="text-align: center;">Chcielibyśmy ofiarować Ci specjalny kod:</p>
 <br>
 <h1 style="text-align: center;">{{ $rabat }}</h1>
 <br>
-<p style="text-align: center;">podaj go podczas zamówienia aby otrzymać rabat o wartości <b>10%</b> zamówienia.</p>
+<p style="text-align: center;">podaj go podczas zamówienia aby otrzymać <b>10%</b> rabat.</p>
 <br>
 <br>
 <br>
@@ -14,7 +14,6 @@ Cieszymy się, że jesteś z nami!</h1>
 	<em>Copyright © Miody Wigor
 		<br>
 		<br>
-		Chcesz zrezygnować z newslettera?<br>
-		Kliknij w link aby się <a href="{{ url('/') }}/newsletter_delete/{{ $code }}" target="_blank">wypisać</a>.
+		Od czasu do czasu chcielibyśmy napisać co u nas słychać, jeżeli nie chcesz otrzymywać naszych wiadomości kliknij <a href="{{ url('/') }}/newsletter_delete/{{ $code }}" target="_blank">tutaj</a>.
 	</em>
 </div>

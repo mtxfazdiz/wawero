@@ -11,6 +11,9 @@
 |
 */
 
+if (App::environment('production')) {
+    URL::forceScheme('https');
+}
 
 //top menu
 Route::get('/', function () {

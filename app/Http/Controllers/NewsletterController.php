@@ -37,7 +37,7 @@ class NewsletterController extends Controller
         $data = array(
             'email' => $request->email,
             'name' => $request->name,
-            'subject' => 'Witaj ' . $request->name,
+            'subject' => 'Oferta - Miody Wigor',
             'code' => $code,
             'mode' => 'oferta',
             'rabat' => $rabat,
