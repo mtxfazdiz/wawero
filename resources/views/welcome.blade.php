@@ -4,6 +4,17 @@
 HOME &raquo;
 @endsection
 
+
+@section('karuzela')
+
+@include('include.karuzela') 
+
+@endsection
+
+
+
+
+
 @section('content')
 
 
@@ -83,7 +94,7 @@ HOME &raquo;
   <div class="row featurette">
     <div class="col-md-7">
       <h2 class="featurette-heading">Warmia i Mazury. <span class="text-muted">Zielone płuca Polski.</span></h2>
-      <p class="lead">Nasza pasieka znajduje się na terenie województwa Warmińsko - Mazurskiego zwanego zielonymi płucami Polski. </p>
+      <p class="lead">Nasza pasieka znajduje się na terenie województwa warmińsko - mazurskiego zwanego zielonymi płucami Polski. </p>
     </div>
     <div class="col-md-5">
       <img class="featurette-image img-fluid mx-auto" src="{{ url('/') }}/pic/3rd.jpg" alt="Bees">

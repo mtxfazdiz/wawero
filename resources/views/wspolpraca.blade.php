@@ -13,7 +13,10 @@ Współpraca &raquo;
      
 
 <div class="container marketing">
-  <h2 class="featurette-heading"></h2>
+  <div class="row paddTop100"></div>
+  <h2 class="featurette-heading">Współpraca</h2>
+  
+  
   <div class="row featurette">
     <div class="col-md-5 d-flex align-items-center">
       <img class="featurette-image img-fluid mx-auto" src="pic/3miodyNew.jpg" alt="Miody"> 

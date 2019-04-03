@@ -26,7 +26,7 @@ Route::get('/onas', function () {
     return view('onas');
 });
 Route::get('/kontakt', function () {
-    return view('kontakt');
+    return view('kontakt2');
 });
 Route::get('/wspolpraca', function () {
     return view('wspolpraca');

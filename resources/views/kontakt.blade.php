@@ -6,32 +6,7 @@
 
 
 @section('face')
-    <!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v3.2'
-    });
-  };
-
-  (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/pl_PL/sdk/xfbml.customerchat.js';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!-- Your customer chat code -->
-<div class="fb-customerchat"
-  attribution=setup_tool
-  page_id="589035351513119"
-  theme_color="#6699cc"
-  logged_in_greeting="Dzień dobry! Jak mogę Ci pomóc?"
-  logged_out_greeting="Dzień dobry! Jak mogę Ci pomóc?">
-</div>
+    @include('include.face')
 @endsection
 
 
@@ -40,7 +15,9 @@
 @section('content')
 
 <div class="container marketing">
-	<div class="row paddTop15"></div>
+	<div class="row paddTop100"></div>
+  <h2 class="featurette-heading">Kontakt</h2>
+  <div class="row paddTop50"></div>
 
 	<div class="row featurette">
 		<div class="col-md-1"></div>
@@ -48,7 +25,7 @@
 
     		<div class="card border-white" style="width: 30rem;">
 
-    			<h2>Kontakt</h2>
+    		
     			<p></p>
     			<p class=" lead"><b>Nasz adres:</b></p>
     			<p class=" paddLeft10 lead">Gospodarstwo pasieczne "Miody Wigor"</p>
