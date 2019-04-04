@@ -21,7 +21,7 @@
 		<hr class="featurette-divider">
 		<div class="card-group">
   		<div class="card text-center border-white">
-  			<i class="fa fa-facebook-square" style="font-size:160px;color:rgb(150,150,150);"></i>
+  			<i class="fa fa-facebook-square" style="font-size:160px;color:rgb(84,84,84);"></i>
     		<div class="card-body">
       			<p class="card-text lead">Dołącz do nas na facebooku</p>
     		</div>
@@ -30,7 +30,7 @@
     		</div>
   		</div>
   		<div class="card text-center border-white">
-  			<i class="	fa fa-instagram" style="font-size:160px;color:rgb(150,150,150);"></i>
+  			<i class="	fa fa-instagram" style="font-size:160px;color:rgb(84,84,84);"></i>
     		<div class="card-body">
       			<p class="card-text lead">Zobacz nas na instagramie</p>
     		</div>
