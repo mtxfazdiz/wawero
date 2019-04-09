@@ -110,14 +110,14 @@ Wierzymy, że uda nam się nawiązać owocną współpracę.</h3>
 <p style="text-align: center;">Są to ceny netto. Do podanych cen należy doliczyć 7 % VAT</p>
 <br>
 <p style="text-align: center;">Zobacz nas na instagramie:</p>
-<h3 style="text-align: center;"><a href="https://www.instagram.com/miody_wigor" target="_blank" style="text-decoration: none;"> Kliknij tutaj</a></h3>
+<h3 style="text-align: center;"><a href="https://www.instagram.com/miody_wigor" target="_blank" style="text-decoration: none;"> Kliknij tutaj &raquo;</a></h3>
 
 <p style="text-align: center;">{{ $name }} osobiście sprawdź jakość naszych produktów! Podczas zamówienia wykorzystaj poniższy kod a otrzymasz <b>10 %</b> zniżki na pierwsze zakupy </p>
 <br>
 <h1 style="text-align: center;">{{ $rabat }}</h1>
 <br>
 <p style="text-align: center;">Dołącz do nas na facebooku:</p>
-<h3 style="text-align: center;"><a href="https://www.fb.com/miodywigor" target="_blank" style="text-decoration: none;"> Kliknij tutaj</a></h3>
+<h3 style="text-align: center;"><a href="https://www.fb.com/miodywigor" target="_blank" style="text-decoration: none;"> Kliknij tutaj &raquo;</a></h3>
 <br>
 <div style="text-align: center;">
 	<em>Copyright © Miody Wigor
