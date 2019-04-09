@@ -20,7 +20,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/naszaoferta', function () {
-    return view('naszaoferta2');
+    return view('produkt');
 });
 Route::get('/onas', function () {
     return view('onas');
