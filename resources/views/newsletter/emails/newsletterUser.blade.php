@@ -5,7 +5,7 @@ Cieszymy się, że jesteś z nami!</h3>
 <br>
 <h1 style="text-align: center;">{{ $rabat }}</h1>
 <br>
-<p style="text-align: center;">podaj go podczas zamówienia aby otrzymać <b>10%</b> rabat.</p>
+<p style="text-align: center;">podaj go podczas zamówienia a otrzymasz <b>10 %</b> zniżki na pierwsze zakupy</p>
 <br>
 <br>
 <br>

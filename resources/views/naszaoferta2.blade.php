@@ -90,7 +90,7 @@ Nasza oferta &raquo;
 				<div class="card-group">
 				  
 				  <div class="card text-center border-white">
-				    <img class="card-img-top mx-auto d-block widthCIT" src="{{ url('/') }}/pic/kw/KwadratSredniPylekKwiatowy.jpg" alt="Card image cap">
+				    <img class="card-img-top mx-auto d-block widthCIT" src="/pic/kw/KwadratSredniPylekKwiatowy.jpg" alt="Card image cap">
 				    <div class="card-body">
 				      <h5 class="card-title">Pyłek kwiatowy</h5>
 				      

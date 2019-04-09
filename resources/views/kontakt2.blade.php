@@ -43,8 +43,6 @@
 
 
 
-
-
   @section('content')
 
   <div class="container marketing">
@@ -52,8 +50,8 @@
   	<h2 class="featurette-heading">Kontakt</h2>
   	<div class="row paddTop50"></div>
   	<div class="row featurette">
-  		<div class="col-md-1 "></div>
-  		<div class="col-md-4 ">
+  		<div class="col-md-2 "></div>
+  		<div class="col-md-4">
   			<br>
   			<h5 class="card-title">Dzień dobry! Jak możemy Ci pomóc?</h5>
   			
@@ -64,8 +62,8 @@
   			
   		</p>
   	</div>
-  	<div class="col-md-2 "></div>
-  	<div class="col-md-4 ">
+  	
+  	<div class="col-md-4">
   		<br>
   		<h5 class="card-title">Jesteśmy do Państwa dyspozycji</h5>
   		<p class="lead"></p>

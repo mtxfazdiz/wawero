@@ -2,7 +2,7 @@
 
 
 <div class="row"> <!-- start row -->
-	<div class="col-md-5 newsLeft"> <!-- start col-md-4 -->
+	<div class="col-md-4 newsLeft"> <!-- start col-md-4 -->
 		<br>
 		<form action="{{ route('send') }}" role="form" method="post">
 
@@ -29,7 +29,7 @@
 			Woj. Warmińsko-Mazurskie
 		</p>	
 	</div><!-- end col-md-8 -->
-	<div class="col-md-2 newsLeft"><!-- start col-md-3 -->
+	<div class="col-md-3 newsLeft"><!-- start col-md-3 -->
 		<br>
 		<p>
 			<b>Zamówienia:</b><br>
