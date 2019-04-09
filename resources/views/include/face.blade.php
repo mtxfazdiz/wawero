@@ -20,7 +20,7 @@
 <div class="fb-customerchat"
   attribution=setup_tool
   page_id="589035351513119"
-  theme_color="#6699cc"
-  logged_in_greeting="Dzień dobry! Jak mogę Ci pomóc?"
-  logged_out_greeting="Dzień dobry! Jak mogę Ci pomóc?">
+  theme_color="#545454"
+  logged_in_greeting="Dzień dobry! Złóż zamówienie"
+  logged_out_greeting="Dzień dobry! Złóż zamówienie">
 </div>
