@@ -93,7 +93,7 @@ Współpraca &raquo;
 
 
   
-<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white">
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white" id="form">
   <div class="container marketing">
 
 
@@ -102,7 +102,7 @@ Współpraca &raquo;
             
           </div>
           <div class="col-md-10 text-left">
-            <form action="{{ route('ofertaSend') }}" role="form" method="post" id="form">
+            <form action="{{ route('ofertaSend') }}" role="form" method="post" >
               {{ csrf_field() }}  
               <div class="form-group">
                 <h2 class="featurette-heading">Jesteś zainteresowany współpracą?</h2>
