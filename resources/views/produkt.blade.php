@@ -7,7 +7,7 @@
 
 
 @section('content')
-<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center ">
   <div class="col-md-7 p-lg-5 mx-auto my-5 ">
     <h1 class="display-4 font-weight-normal">Miody z dodatkami</h1>
     <p class="card-text lead">Definiujemy smak miodów na nowo.</p>
@@ -16,6 +16,43 @@
   <img class="featurette-image img-fluid mx-auto" src="pic/3miodyProd.png" alt="Miody">
 </div>
 
+<!-- <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+  <div class="col-md-7 p-lg-5  my-5 ">
+    <h1 class="display-4 font-weight-normal">Miody z dodatkami</h1>
+    <p class="card-text lead">Definiujemy smak miodów na nowo.</p>
+    <a class="btn btn-outline-secondary" href="#">Sprawdź naszą ofertę</a>
+  </div>
+  <img class="product-device shadow-sm d-none d-md-block" src="pic/3miodyProd.png" alt="Miody">
+</div>
+ -->
+
+<div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+  <div class=" mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <div class="my-3 p-3">
+      <h2 class="display-5">Uwielbiane przez dzieci</h2>
+      <p class="lead">Zachwycają świerzością.</p>
+    </div>
+    <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
+      <img  src="pic/ns.png" alt="Miody" style="height: 500px;">
+    </div>
+  </div>
+  <div class=" mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <div class="my-3 py-3">
+      <h2 class="display-5">Zupełnie nowe oblicze</h2>
+      <p class="lead">Malina, cynamon a może orzech włoski?</p>
+    </div>
+    <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">
+      <img class="featurette-image img-fluid mx-auto" src="pic/ns.png" alt="Miody">
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
 <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
   <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
     <div class="my-3 p-3">
@@ -23,14 +60,14 @@
       <p class="lead">Zachwycają świerzością.</p>
       <a class="btn btn-outline-secondary" href="#">Sprawdź naszą ofertę</a>
     </div>
-    <img class="featurette-image img-fluid mx-auto ramka" src="pic/ns.png" alt="Miody" style="height: 200px;">
+    <img class="featurette-image img-fluid mx-auto" src="pic/ns.png" alt="Miody" style="height: 200px;">
     <!-- <div class="bg-white box-shadow mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div> -->
   </div>
   <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
     <div class="my-3 py-3">
       <h2 class="display-5">Zupełnie nowe oblicze</h2>
-      <p class="lead">Malina, cynamon a może orzech włoski?<br> To tylko niektóre z naszych propozycji!</p>
-      
+      <p class="lead">Malina, cynamon a może orzech włoski?</p>
+      <a class="btn btn-outline-secondary" href="#">Sprawdź naszą ofertę</a>
     </div>
     <img class="featurette-image img-fluid mx-auto" src="pic/ns.png" alt="Miody" style="height: 200px;">
   </div>
@@ -61,7 +98,7 @@
   <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
     <div class="my-3 py-3">
       <h2 class="display-5">Another headline</h2>
-      <p class="lead">And an even wittier subheading.</p>
+      <p class="lead">To tylko niektóre z naszych propozycji!</p>
     </div>
     <img class="featurette-image img-fluid mx-auto" src="pic/ns.png" alt="Miody" style="height: 300px; border-radius: 21px 21px 0 0;">
   </div>

@@ -45,7 +45,7 @@ Nasza oferta &raquo;
           </div>
           <div role="tabpanel" class="tab-pane active" id="lipa_sredni">
             <div class="card border-white" style="width: 200px;">
-             <img class="card-img-top" src="../pic/sredni_lipa.jpg" alt="Card image cap">
+             <img class="card-img-top" src="../pic/k/KwadratSredniOrzech.jpg" alt="Card image cap">
              <ul class="list-group list-group-flush border-white">
                <li class="list-group-item border-white">Waga: 400 g </li>
                <li class="list-group-item border-white"><b>Cena: 24 zł</b></li>
