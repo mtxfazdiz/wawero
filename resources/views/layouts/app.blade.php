@@ -46,7 +46,7 @@
             <a class="nav-link" href="{{ url('/jak') }}">Jak kupić? <span class="sr-only">(current)</span></a>  
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ url('/naszaoferta') }}">Nasza oferta <span class="sr-only">(current)</span></a>  
+            <a class="nav-link" href="{{ url('/produkt') }}">Nasza oferta <span class="sr-only">(current)</span></a>  
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ url('/wspolpraca') }}">Współpraca <span class="sr-only">(current)</span></a>  

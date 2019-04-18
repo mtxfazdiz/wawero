@@ -19,8 +19,11 @@ if (App::environment('production')) {
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/naszaoferta', function () {
+Route::get('/produkt', function () {
     return view('produkt');
+});
+Route::get('/naszaoferta', function () {
+    return view('naszaoferta2');
 });
 Route::get('/onas', function () {
     return view('onas');
