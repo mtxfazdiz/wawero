@@ -81,3 +81,25 @@
 }
 
 .overflow-hidden { overflow: hidden; }
+
+
+
+
+
+
+.product01 {
+  position: absolute;
+  right: 0%;
+  bottom: -30%;
+  
+  height: 540px;
+  
+}
+
+
+.card-product {
+  
+  height: 400px;
+  object-fit: cover;
+}
+
