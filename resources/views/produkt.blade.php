@@ -84,7 +84,7 @@
     <p class="card-text lead">Definiujemy smak miodów na nowo.</p>
     <a class="btn btn-outline-secondary" href="#">Sprawdź naszą ofertę</a>
   </div>
-  <img class="card-img-bottom card-product" src="pic/m01.jpg" alt="Miody" style="height: 250px;">
+  <img class=" card-product" src="pic/m05.jpg" alt="Miody" >
 </div>
 
 
@@ -108,7 +108,7 @@
       <p class="lead">Malina, cynamon a może orzech włoski?</p>
       <a class="btn btn-outline-secondary" href="#">Sprawdź naszą ofertę</a>
     </div>
-    <img class="card-img-bottom card-product" src="pic/m05.jpg" alt="Card image cap">
+    <img class="card-product" src="pic/k/KwadratSredniPropolis.jpg" alt="Card image cap">
    
   </div>
 </div>
@@ -122,7 +122,7 @@
     <a class="btn btn-outline-secondary" href="#">Sprawdź naszą ofertę</a>
   </div>
   <!-- <div class="product-device box-shadow d-none d-md-block"></div> -->
-  <img class="card-img-bottom card-product" src="pic/m01.jpg" alt="Miody" style="height: 250px;">
+  <img class=" card-product" src="pic/m05.jpg" alt="Miody" >
   <!-- <div class="product-device product-device-2 box-shadow d-none d-md-block"></div> -->
 </div>
 
@@ -135,7 +135,7 @@
       <p class="lead">Na codzień w twojej kuchni.</p>
       <a class="btn btn-outline-secondary" href="#">Sprawdź naszą ofertę</a>
     </div>
-    <img class="card-img-bottom card-product mx-auto" src="pic/m04.jpg" alt="Card image cap">
+    <img class=" card-product mx-auto" src="pic/k/KwadratSredniZPylkiem.jpg" alt="Card image cap">
   </div>
   <div class=" mr-md-3 pt-3  pt-md-5 text-center overflow-hidden bg-white">
     <div class="my-3 py-3">
@@ -178,9 +178,9 @@
 </div>
 
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white">
-  <img class="card-img-bottom card-product" src="pic/m01.jpg" alt="Miody" style="height: 250px;">
+  <img class="card-product" src="pic/m04.jpg" alt="Miody">
 </div>
-<div class="row paddTop100"></div>
+
 </div>
 
 @endsection
