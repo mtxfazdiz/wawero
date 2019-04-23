@@ -80,6 +80,33 @@ Wierzymy, że uda nam się nawiązać owocną współpracę.</h3>
 	</tbody>
 </table>
 <br>
+<p style="text-align: center;"><b>Produkty pszczele:</b></p>
+<br>
+<table border="0" style="width: 350px; margin-left: auto; margin-right: auto;">
+	<tbody>
+		<tr>
+			<td style="width: 190px; text-align: left;"><strong>Produkt</strong></td>
+			<td style="width: 45px; text-align: center"><strong>100 g</strong></td>
+			<td style="width: 45px; text-align: center"><strong>200 g</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 190px; text-align: left;">pyłek kwiatowy</td>
+			<td style="width: 45px; text-align: center;">12 zł</td>
+			<td style="width: 45px; text-align: center;">20 zł</td>
+		</tr>
+		<tr>
+			<td style="width: 190px; text-align: left;">pierzga</td>
+			<td style="width: 45px; text-align: center;">28 zł</td>
+			<td style="width: 45px; text-align: center;"> - </td>
+		</tr>
+		<tr>
+			<td style="width: 190px; text-align: left;">propolis</td>
+			<td style="width: 45px; text-align: center;">24 zł</td>
+			<td style="width: 45px; text-align: center;"> - </td>
+		</tr>
+	</tbody>
+</table>
+<br>
 <p style="text-align: center;">Są to ceny netto. Do podanych cen należy doliczyć 7 % VAT</p>
 <br>
 <p style="text-align: center;">Zobacz nas na instagramie:</p>

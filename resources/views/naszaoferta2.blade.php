@@ -23,7 +23,7 @@ Nasza oferta &raquo;
 				      
 				    </div>
 				    <div class="card-footer bg-white border-white">
-				      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta/lipowy') }}" role="button">Zobacz &raquo;</a></p>
+				      <p><a class="l" href="{{ url('/naszaoferta/lipowy') }}" role="button">Zobacz &raquo;</a></p>
 				    </div>
 				  </div>
 				  <div class="card text-center border-white">
@@ -33,7 +33,7 @@ Nasza oferta &raquo;
 				      
 				    </div>
 				    <div class="card-footer bg-white border-white">
-				      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta/wielokwiatowy') }}" role="button">Zobacz &raquo;</a></p>
+				      <p><a class="l" href="{{ url('/naszaoferta/wielokwiatowy') }}" role="button">Zobacz &raquo;</a></p>
 				    </div>
 				  </div>
 				  <div class="card text-center border-white">
@@ -42,7 +42,7 @@ Nasza oferta &raquo;
 				      <h5 class="card-title">Miód rzepakowy</h5>
 				    </div>
 				    <div class="card-footer bg-white border-white">
-				      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta/rzepakowy') }}" role="button">Zobacz &raquo;</a></p>
+				      <p><a class="l" href="{{ url('/naszaoferta/rzepakowy') }}" role="button">Zobacz &raquo;</a></p>
 				    </div>
 				  </div>
 				</div>
@@ -58,7 +58,7 @@ Nasza oferta &raquo;
 				      
 				    </div>
 				    <div class="card-footer bg-white border-white">
-				      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta/gryczany') }}" role="button">Zobacz &raquo;</a></p>
+				      <p><a class="l" href="{{ url('/naszaoferta/gryczany') }}" role="button">Zobacz &raquo;</a></p>
 				    </div>
 				  </div>
 				  <div class="card text-center border-white">
@@ -67,7 +67,7 @@ Nasza oferta &raquo;
 				      <h5 class="card-title">Miód z pyłkiem kwiatowym</h5>
 				    </div>
 				    <div class="card-footer bg-white border-white">
-				      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta/zpylkiem') }}" role="button">Zobacz &raquo;</a></p>
+				      <p><a class="l" href="{{ url('/naszaoferta/zpylkiem') }}" role="button">Zobacz &raquo;</a></p>
 				    </div>
 				</div>
 				    <div class="card text-center border-white">
@@ -77,7 +77,7 @@ Nasza oferta &raquo;
 				      
 				    </div>
 				    <div class="card-footer bg-white border-white">
-				      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta/nektar') }}" role="button">Zobacz &raquo;</a></p>
+				      <p><a class="l" href="{{ url('/naszaoferta/nektar') }}" role="button">Zobacz &raquo;</a></p>
 				    </div>
 				  </div>
 
@@ -96,7 +96,7 @@ Nasza oferta &raquo;
 				      
 				    </div>
 				    <div class="card-footer bg-white border-white">
-				      <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta/pylek') }}" role="button">Zobacz &raquo;</a></p>
+				      <p><a class="l" href="{{ url('/naszaoferta/pylek') }}" role="button">Zobacz &raquo;</a></p>
 				    </div>
 				  </div>
 

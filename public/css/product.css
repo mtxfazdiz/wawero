@@ -103,3 +103,13 @@
   object-fit: cover;
 }
 
+a.l:hover{
+  text-decoration: underline;
+}
+
+
+a.l:link, a.l:visited, a.l:hover, a.l:active{
+  color: rgb(0, 112, 201);
+  font-size: 17px;
+}
+

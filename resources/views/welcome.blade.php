@@ -34,7 +34,7 @@ HOME &raquo;
         <p class="card-text lead">Posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową.</p>
       </div>
       <div class="card-footer bg-white border-white">
-        <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
       </div>
     </div>
     <div class="card text-center border-white">
@@ -44,7 +44,7 @@ HOME &raquo;
         <p class="card-text lead">Działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc.</p>
       </div>
       <div class="card-footer bg-white border-white">
-        <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
       </div>
     </div>
     <div class="card text-center border-white">
@@ -54,7 +54,7 @@ HOME &raquo;
         <p class="card-text lead">Zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, oraz przeciwdziała miażdżycy.</p>
       </div>
       <div class="card-footer bg-white border-white">
-        <p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
       </div>
     </div>
   </div>

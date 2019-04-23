@@ -20,7 +20,7 @@ Jak kupić nasze produkty? &raquo;
       			<p class="card-text lead">Wybierz produkty, które Cię interesują.</p>
     		</div>
     		<div class="card-footer bg-white border-white">
-      			<p><a class="btn btn-outline-secondary" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+      			<p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
     		</div>
   		</div>
   		<div class="card text-center border-white">
@@ -30,7 +30,7 @@ Jak kupić nasze produkty? &raquo;
       			<p class="card-text lead">Skontaktuj się z nami aby złożyć zamówienie.</p>
     		</div>
     		<div class="card-footer bg-white border-white">
-      			<p><a class="btn btn-outline-secondary" href="{{ url('/kontakt') }}" role="button">Kontakt &raquo;</a></p>
+      			<p><a class="l" href="{{ url('/kontakt') }}" role="button">Kontakt &raquo;</a></p>
     		</div>
   		</div>
   		<div class="card text-center border-white">
@@ -40,7 +40,7 @@ Jak kupić nasze produkty? &raquo;
       			<p class="card-text lead">Odbierz paczkę i dołącz do grona zadowolonych klientów.</p>
     		</div>
     		<div class="card-footer bg-white border-white">
-      			<p><a class="btn btn-outline-secondary" href="https://fb.com/miodywigor" role="button" target="_blank">Facebook &raquo;</a></p>
+      			<p><a class="l" href="https://fb.com/miodywigor" role="button" target="_blank">Facebook &raquo;</a></p>
     		</div>
   		</div>
 	</div>
