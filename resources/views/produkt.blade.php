@@ -12,12 +12,12 @@
 
 <div class="bg-light">
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white mx-auto">
-  <div class="col-md-7 p-lg-5 mx-auto my-5 ">
+  <div class="col-md-7 p-lg-5 mx-auto my-5 overflow-hidden text-center">
     <h1 class="display-4 font-weight-normal">Miody z dodatkami</h1>
     <p class="card-text lead">Definiujemy smak miodów na nowo.</p>
     <a class="l" href="{{ url('/naszaoferta/') }}">Sprawdź naszą ofertę &raquo;</a>
   </div>
-  <img class=" card-product" src="pic/m06.jpg" alt="Miody" >
+  <img class="card-img-bottom mx-auto card-product contain" src="pic/m06.jpg" alt="Miody">
 </div>
 
 
@@ -53,7 +53,7 @@
     <p class="card-text lead">Dobrze znane a jednocześnie coraz lepsze.</p>
     <a class="l" href="{{ url('/naszaoferta/') }}">Sprawdź naszą ofertę &raquo;</a>
   </div>
-  <img class=" card-product" src="pic/m06.jpg" alt="Miody" >
+  <img class="card-img-bottom card-product mx-auto contain" src="pic/m06.jpg" alt="Miody" >
 </div>
 
 
@@ -87,7 +87,7 @@
 </div>
 
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white">
-  <img class="card-product" src="pic/m04.jpg" alt="Miody">
+  <img class="card-img-bottom card-product mx-auto" src="pic/m04.jpg" alt="Miody">
 </div>
 
 </div>
