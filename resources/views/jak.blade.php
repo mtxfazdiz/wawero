@@ -6,12 +6,15 @@ Jak kupić nasze produkty? &raquo;
 
 @section('content')
 
-
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white mx-auto">
+    <div class="col-md-7 p-lg-5 mx-auto my-5 overflow-hidden text-center">
+      <h1 class="display-4 font-weight-normal">Jak kupić nasze produkty?</h1>
+      <p class="card-text lead"></p>
+    </div>
+  </div>
 
 <div class="container marketing">
-	<div class="row paddTop100"></div>
-	<h2 class="featurette-heading">Jak kupić nasze produkty?</h2>
-	<div class="row paddTop50"></div>
+	
 	<div class="card-group">
   		<div class="card text-center border-white">
   			<i class="material-icons" style="font-size:140px;color:rgb(84,84,84);">shopping_cart</i>

@@ -7,9 +7,15 @@
 @section('content')
 
 
+div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white mx-auto">
+    <div class="col-md-7 p-lg-5 mx-auto my-5 overflow-hidden text-center">
+      <h1 class="display-4 font-weight-normal">Poznaj naszą historię</h1>
+      <p class="card-text lead"></p>
+    </div>
+  </div>
+
 <div class="container marketing">
-	<div class="row paddTop100"></div>
-  <h2 class="featurette-heading">O nas</h2>
+	
   
 	<div class="row featurette">
           <div class="col-md-7">
