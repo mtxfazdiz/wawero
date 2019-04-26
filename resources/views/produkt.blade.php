@@ -95,7 +95,7 @@
 </div>
 
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white">
-  <img class="card-img-bottom card-product mx-auto" src="pic/m04.jpg" alt="Miody">
+  <img class="card-img-bottom card-product mx-auto" src="pic/miody/all400.jpg" alt="Miody">
 </div>
 
 </div>
