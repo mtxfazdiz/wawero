@@ -100,9 +100,13 @@
 .card-product {
   
   height: 400px;
+  object-fit: cover;
+}
+.card-product-full {
+  
+  height: 400px;
   object-fit: contain;
 }
-
 a.l:hover{
   text-decoration: underline;
 }

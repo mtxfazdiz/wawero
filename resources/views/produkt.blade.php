@@ -17,7 +17,7 @@
     <p class="card-text lead">Definiujemy smak miodów na nowo</p>
     <a class="l" href="{{ url('/naszaoferta#dodatki') }}">Sprawdź naszą ofertę &raquo;</a>
   </div>
-  <img class="card-img-bottom mx-auto card-product contain" src="pic/m06.jpg" alt="Miody">
+  <img class="card-img-bottom mx-auto card-product-full contain" src="pic/miody/all400.jpg" alt="Miody">
 </div>
 
 
@@ -61,7 +61,7 @@
     <p class="card-text lead">Dobrze znane a jednocześnie coraz lepsze</p>
     <a class="l" href="{{ url('/naszaoferta#odmianowe') }}">Sprawdź naszą ofertę &raquo;</a>
   </div>
-  <img class="card-img-bottom card-product mx-auto contain" src="pic/m06.jpg" alt="Miody" >
+  <img class="card-img-bottom card-product-full mx-auto contain" src="pic/miody/all400.jpg" alt="Miody" >
 </div>
 
 
@@ -95,7 +95,7 @@
 </div>
 
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white">
-  <img class="card-img-bottom card-product mx-auto" src="pic/miody/all400.jpg" alt="Miody">
+  <img class="card-img-bottom card-product-full mx-auto" src="pic/miody/all400.jpg" alt="Miody">
 </div>
 
 </div>
