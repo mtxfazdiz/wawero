@@ -28,7 +28,7 @@
   	<div class="fb-customerchat"
   	attribution=setup_tool
   	page_id="589035351513119"
-  	theme_color="#545454"
+  	theme_color="#0070C9"
   	logged_in_greeting="Dzień dobry! Napisz do nas!"
   	logged_out_greeting="Dzień dobry! Napisz do nas!">
   </div>

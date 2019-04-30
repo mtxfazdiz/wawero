@@ -11,7 +11,7 @@ Nasza oferta &raquo;
 
 @section('content')
 
-			<div class="container marketing">
+			<div class="container marketing ">
 				<div class="row paddTop100"></div>
 				<h2 class="featurette-heading">Nasza oferta</h2>
 				<div class="row paddTop50"></div>

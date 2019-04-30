@@ -41,7 +41,11 @@
       <p class="lead">Więcej smaków. Więcej kolorów.</p>
       <a class="l" href="{{ url('/naszaoferta/') }}">Kup &raquo;</a>
     </div>
-    <img class="card-img-bottom card-product mx-auto" src="pic/hiRes/m09.jpg" alt="Card image cap">
+    <?php
+      
+      echo '<img class="card-img-bottom card-product mx-auto" src="pic/hiRes/ms0' .rand(1,4). '.jpg" alt="Card image cap">'
+    ?>
+    
   </div>
 </div>
 
