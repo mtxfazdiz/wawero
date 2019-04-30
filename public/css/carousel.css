@@ -366,3 +366,16 @@ body
   }
 }
 
+@media (min-width: 1921px){
+  .contain{
+    object-fit: contain;
+  }
+
+
+
+}
+
+
+
+
+
