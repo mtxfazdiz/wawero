@@ -1,8 +1,8 @@
 
 
 
-<div class="row"> <!-- start row -->
-	<div class="col-md-4 newsLeft"> <!-- start col-md-4 -->
+<div class="row"> 
+	<div class="col-md-4 newsLeft"> 
 		<br>
 		<form action="{{ route('send') }}" role="form" method="post">
 
@@ -17,24 +17,24 @@
 			</div>
 			<button type="submit" class="btn btn-sm btn-outline-secondary" id="btnNews"> Zapisz się </button>
 		</form>
-	</div><!-- end col-md-4 -->
+	</div>
 	<div class="col-md-1"></div>
 	<div class="col-md-4 newsLeft">
 		<br>
 		<p>
 			<b>Nasz adres:</b><br>
-			Gospodarstwo pasieczne "Miody Wigor"</br>
-			Piotr Wawryszczuk</br>
-			Rogity 3AB</br>
+			Gospodarstwo pasieczne "Miody Wigor"<br>
+			Piotr Wawryszczuk<br>
+			Rogity 3AB<br>
 			Woj. Warmińsko-Mazurskie
 		</p>	
-	</div><!-- end col-md-8 -->
-	<div class="col-md-3 newsLeft"><!-- start col-md-3 -->
+	</div>
+	<div class="col-md-3 newsLeft">
 		<br>
 		<p>
 			<b>Zamówienia:</b><br>
-			+48 730 816 661</br>
+			+48 730 816 661<br>
 			kontakt@miodywigor.pl
 		</p>
 	</div>
-</div> <!-- end row -->
+</div> 
