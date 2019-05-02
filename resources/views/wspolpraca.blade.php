@@ -61,7 +61,7 @@ Współpraca &raquo;
 
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white">
   <div class="col-md-7 p-lg-5 mx-auto my-5 ">
-    <h1 class="display-4 font-weight-normal">Każdy znajdzie miód dla siebie.</h1><br>
+    <h1 class="display-4 font-weight-normal">Idealny produkt w Twoim sklepie</h1><br>
     <a class="l" href="#form">Pobierz ofertę &raquo;</a>
   </div>
 </div>  
