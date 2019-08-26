@@ -19,6 +19,15 @@ Nasza oferta &raquo;
 
 		</div>
 	</div>
+
+
+
+
+	
+
+
+
+
 	
 	<div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3 bg-light">
 		<div class=" mr-md-3 pt-3  pt-md-5 text-center overflow-hidden bg-white">
