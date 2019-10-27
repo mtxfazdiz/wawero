@@ -99,14 +99,20 @@
 
 .card-product {
   
-  height: 400px;
-  object-fit: cover;
+  width: 70%;
+  object-fit: contain;
+}
+.card-product-50 {
+  
+  width: 50%;
+  object-fit: contain;
 }
 .card-product-full {
   
-  height: 400px;
+  
   object-fit: contain;
 }
+
 a.l:hover{
   text-decoration: underline;
 }
