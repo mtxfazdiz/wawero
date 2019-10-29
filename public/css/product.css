@@ -124,7 +124,7 @@
   
    
 }
-@media (min-width: 300px) and (max-width: 992px) {
+@media (min-width: 300px) and (max-width: 1024px) {
        /* rules for tablet (768 > 992) */
        .card-product-30, .card-product-50 {
           width: 70%;

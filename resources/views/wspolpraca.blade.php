@@ -14,7 +14,7 @@ Współpraca &raquo;
       <p class="card-text lead">Dowiedz się dlaczego warto!</p>
       
     </div>
-    <img class="card-img-bottom card-product mx-auto contain" src="pic/m06.jpg" alt="Miody" >
+    <img class="card-img-bottom card-product-50 mx-auto" src="pic/miody/all400.jpg" alt="Miody">
   </div>
 
 
