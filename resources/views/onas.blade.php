@@ -7,7 +7,7 @@
 @section('content')
 
 
-div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white mx-auto">
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white mx-auto">
     <div class="col-md-7 p-lg-5 mx-auto my-5 overflow-hidden text-center">
       <h1 class="display-4 font-weight-normal">Poznaj naszą historię</h1>
       <p class="card-text lead"></p>
