@@ -56,7 +56,7 @@
 
 
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-white">
-  <div class="col-md-7 p-lg-5 mx-auto my-5 ">
+  <div class="col-md-7 p-lg-5 mx-auto my-5">
     <h1 class="display-4 font-weight-normal">Miody odmianowe</h1>
     <p class="card-text lead">Dobrze znane a jednocześnie coraz lepsze</p>
     <a class="l" href="{{ url('/naszaoferta#odmianowe') }}">Sprawdź naszą ofertę &raquo;</a>
