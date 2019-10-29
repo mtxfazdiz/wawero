@@ -24,37 +24,40 @@ HOME &raquo;
 
 
 <div class="container marketing">
-
+  <div class="row paddTop15"></div>
 
   <div class="card-group">
     <div class="card text-center border-white">
-      <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/sredni_rzepak.jpg" alt="Card image cap" width="130">
+      <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/www/imbir400.jpg" alt="Card image cap">
       <div class="card-body">
-        <h5 class="card-title">Miód rzepakowy</h5>
-        <p class="card-text lead">Posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową.</p>
+        <h5 class="card-title">Miód z imbirem</h5>
+        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+        <!-- <p class="card-text lead">Posiada wyraźny wpływ leczniczy w chorobach serca, zwłaszcza: wieńcowych (dusznica sercowa) działa leczniczo na niewydolność naczyniową.</p> -->
       </div>
       <div class="card-footer bg-white border-white">
-        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+        
       </div>
     </div>
     <div class="card text-center border-white">
-      <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/sredni_lipa.jpg" alt="Card image cap" width="130">
+      <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/www/lipowy400.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">Miód lipowy</h5>
-        <p class="card-text lead">Działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc.</p>
+        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+       <!--  <p class="card-text lead">Działa antyseptycznie i uspokajająco, stosowany w leczeniu chorób układu oddechowego. Wskazany przy zapaleniu oskrzeli i płuc.</p> -->
       </div>
       <div class="card-footer bg-white border-white">
-        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+       
       </div>
     </div>
     <div class="card text-center border-white">
-      <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/sredni_gryczany.jpg" alt="Card image cap" width="130">
+      <img class="card-img-top mx-auto d-block widthCITW" src="{{ url('/') }}/pic/www/malinowy400.jpg" alt="Card image cap">
       <div class="card-body">
-        <h5 class="card-title">Miód gryczany</h5>
-        <p class="card-text lead">Zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, oraz przeciwdziała miażdżycy.</p>
+        <h5 class="card-title">Miód z malinami</h5>
+        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+        <!-- <p class="card-text lead">Zwany "przedłużaczem życia", pomaga przy przyswajaniu witaminy C, oraz przeciwdziała miażdżycy.</p> -->
       </div>
       <div class="card-footer bg-white border-white">
-        <p><a class="l" href="{{ url('/naszaoferta') }}" role="button">Nasza oferta &raquo;</a></p>
+        
       </div>
     </div>
   </div>
