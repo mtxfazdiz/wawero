@@ -61,7 +61,7 @@
     <p class="card-text lead">Dobrze znane a jednocześnie coraz lepsze</p>
     <a class="l" href="{{ url('/naszaoferta#odmianowe') }}">Sprawdź naszą ofertę &raquo;</a>
   </div>
-  <img class="card-img-bottom card-product-50 mx-auto contain" src="pic/miody/all400.jpg" alt="Miody" >
+  <img class="card-img-bottom card-product-50 mx-auto contain" src="pic/miody/odmianowe.jpg" alt="Miody" >
 </div>
 
 
