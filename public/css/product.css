@@ -124,6 +124,16 @@
   
    
 }
+@media (min-width: 300px) and (max-width: 992px) {
+       /* rules for tablet (768 > 992) */
+       .card-product-30, .card-product-50 {
+          width: 70%;
+          object-fit: contain;
+        }
+
+
+
+}
 
 a.l:hover{
   text-decoration: underline;
