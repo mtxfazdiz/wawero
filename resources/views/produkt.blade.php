@@ -17,7 +17,7 @@
     <p class="card-text lead">Definiujemy smak miodów na nowo</p>
     <a class="l" href="{{ url('/naszaoferta#dodatki') }}">Sprawdź naszą ofertę &raquo;</a>
   </div>
-  <img class="card-img-bottom mx-auto card-product-30 contain" src="pic/miody/odmianowe.jpg" alt="Miody">
+  <img class="card-img-bottom mx-auto card-product-30 contain" src="pic/miody/zDodatkami.jpg" alt="Miody">
 </div>
 
 
