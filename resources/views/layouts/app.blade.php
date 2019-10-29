@@ -38,7 +38,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-         <ul class="navbar-nav mr-auto pl-5">
+          <ul class="navbar-nav mr-auto pl-5">
           <li class="nav-item">
             <a class="nav-link" href="{{ url('/') }}">Home <span class="sr-only">(current)</span></a>
           </li>
@@ -57,12 +57,10 @@
           <li class="nav-item">
             <a class="nav-link" href="{{ url('/kontakt') }}">Kontakt <span class="sr-only">(current)</span></a>
           </li>
-        </ul> 
+          </ul> 
+        </div>
       </div>
-    </div>
-
-  </nav> 
-
+    </nav> 
 </header>
 
 <main role="main">
