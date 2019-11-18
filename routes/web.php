@@ -76,34 +76,34 @@ Route::get('/oferta/', [
 
 
 //miody
-Route::get('/naszaoferta/lipowy', function () {
-    return view('miody.lipowy');
-});
+// Route::get('/naszaoferta/lipowy', function () {
+//     return view('miody.lipowy');
+// });
 
-Route::get('/naszaoferta/wielokwiatowy', function () {
-    return view('miody.wielokwiatowy');
-});
+// Route::get('/naszaoferta/wielokwiatowy', function () {
+//     return view('miody.wielokwiatowy');
+// });
 
-Route::get('/naszaoferta/rzepakowy', function () {
-    return view('miody.rzepakowy');
-});
+// Route::get('/naszaoferta/rzepakowy', function () {
+//     return view('miody.rzepakowy');
+// });
 
-Route::get('/naszaoferta/gryczany', function () {
-    return view('miody.gryczany');
-});
+// Route::get('/naszaoferta/gryczany', function () {
+//     return view('miody.gryczany');
+// });
 
-Route::get('/naszaoferta/zpylkiem', function () {
-    return view('miody.zpylkiem');
-});
+// Route::get('/naszaoferta/zpylkiem', function () {
+//     return view('miody.zpylkiem');
+// });
 
-Route::get('/naszaoferta/zpropolisem', function () {
-    return view('miody.zpropolisem');
-});
+// Route::get('/naszaoferta/zpropolisem', function () {
+//     return view('miody.zpropolisem');
+// });
 
-Route::get('/naszaoferta/nektar', function () {
-    return view('miody.nektar');
-});
+// Route::get('/naszaoferta/nektar', function () {
+//     return view('miody.nektar');
+// });
 
-Route::get('/naszaoferta/pylek', function () {
-    return view('miody.pylek');
-});
+// Route::get('/naszaoferta/pylek', function () {
+//     return view('miody.pylek');
+// });

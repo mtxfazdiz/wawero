@@ -34,7 +34,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br> z malinami</h4>
 				<p class="lead price">250 g - 24 zł, 400 g - 34 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/gryczany') }}">Dowiedz się więcej &raquo;</a>
+				<!-- <a class="l" href="{{ url('/naszaoferta/gryczany') }}">Dowiedz się więcej &raquo;</a> -->
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/malinowy400.jpg" alt="Card image cap">
 			
@@ -44,7 +44,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br> z imbirem</h4>
 				<p class="lead price">250 g - 24 zł, 400 g - 34 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/pylek') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/imbir400.jpg" alt="Card image cap">
 			
@@ -55,7 +55,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br>z cynamonem</h4>
 				<p class="lead price">250 g - 24 zł, 400 g - 34 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/nektar') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/cynamon400.jpg" alt="Card image cap">
 			
@@ -68,7 +68,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br>z orzechami włoskimi</h4>
 				<p class="lead price">250 g - 24 zł, 400 g - 34 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/zpylkiem') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/orzech400.jpg" alt="Card image cap">
 			
@@ -78,7 +78,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br> z pyłkiem kwiatowym</h4>
 				<p class="lead price">250 g - 24 zł, 400 g - 34 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/zpylkiem') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/zPylkiemKwiatowym400.jpg" alt="Card image cap">
 			
@@ -88,7 +88,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód z kurkumą<br> i pieprzem cayenne</h4>
 				<p class="lead price">250 g - 24 zł, 400 g - 34 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/zpylkiem') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/kurkuma400.jpg" alt="Card image cap">
 			
@@ -101,7 +101,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br>z żurawiną</h4>
 				<p class="lead price">250 g - 24 zł, 400 g - 34 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/zpylkiem') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/zurawina400.jpg" alt="Card image cap">
 			
@@ -134,7 +134,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br>lipowy</h4>
 				<p class="lead price">250 g - 20 zł, 400 g - 27 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/lipowy') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/lipowy400.jpg" alt="Card image cap">
 
@@ -144,7 +144,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br>wielokwiatowy</h4>
 				<p class="lead price">250 g - 18 zł, 400 g - 25 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/wielokwiatowy') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/wielokwiat400.jpg" alt="Card image cap">
 
@@ -154,7 +154,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br>rzepakowy</h4>
 				<p class="lead price">250 g - 18 zł, 400 g - 25 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/rzepakowy') }}">Dowiedz się więcej &raquo;</a>
+			
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/rzepak400.jpg" alt="Card image cap">
 
@@ -166,7 +166,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Miód<br>gryczany</h4>
 				<p class="lead price">250 g - 22 zł, 400 g - 28 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/gryczany') }}">Dowiedz się więcej &raquo;</a>
+			
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/gryczany400.jpg" alt="Card image cap">
 			
@@ -197,7 +197,7 @@ Nasza oferta &raquo;
 			<div class="my-3 py-3">
 				<h4 class="display-5">Pyłek<br>kwiatowy</h4>
 				<p class="lead price">200 g - 28 zł</p>
-				<a class="l" href="{{ url('/naszaoferta/lipowy') }}">Dowiedz się więcej &raquo;</a>
+				
 			</div>
 			<img class="card-img-bottom card-product mx-auto" src="pic/www/pylekKwiatowy400.jpg" alt="Card image cap">
 
