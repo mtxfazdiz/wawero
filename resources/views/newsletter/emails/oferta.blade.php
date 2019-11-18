@@ -127,3 +127,8 @@ Wierzymy, że uda nam się nawiązać owocną współpracę.</h3>
 	</em>
 </div>
 
+<div style="text-align: center;">
+	<em>
+		Oferta ważna 7 dni.
+	</em>
+</div>
