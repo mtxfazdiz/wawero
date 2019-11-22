@@ -5,7 +5,8 @@ namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-class NewsletterValidator extends FormRequest
+
+class OfertaValidator extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -25,7 +26,7 @@ class NewsletterValidator extends FormRequest
     public function rules()
     {
         return [
-            'email' => 'required|email|max:40|unique:newsletters',
+            'email' => 'required|email|max:40',
             'name' => 'required|max:30'
         ];
     }
@@ -34,12 +35,13 @@ class NewsletterValidator extends FormRequest
 {
     return [
         'email.required' => 'Pole email jest wymagane.',
-        'email.unique' => 'Ten email jest już zapisany.',
+        //'email.unique' => 'Ten email jest już zapisany.',
         //'email' => 'unique:users,email_address'
         'name.required'  => 'Pole imię jest wymagane.',
         'validation.email' => 'Wpisz poprawny email.',
     ];
 }
 }
+
 
 ?>

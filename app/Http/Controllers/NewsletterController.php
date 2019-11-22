@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\NewsletterValidator;
+use App\Http\Requests\OfertaValidator;
 use App\Newsletter;
 use Illuminate\Http\Request;
 //use Illuminate\Http\Request;
@@ -30,7 +31,7 @@ class NewsletterController extends Controller
     {
         return view('newsletter.pageDelete');
     }
-    public function wspolpracaSend(NewsletterValidator $request)
+    public function wspolpracaSend(OfertaValidator $request)
     {
         $code = str_random(40);
         $rabat = str_random(10);
@@ -50,19 +51,54 @@ class NewsletterController extends Controller
         });
      
 
-        Mail::send('newsletter.emails.oferta', $data, function($message) use($data) {
+
+
+        $users = DB::table('newsletters')->where('email',$request->email)->get();
+        
+
+        foreach ($users as $user) {
+            }
+
+
+        if ( !$users->isEmpty() ){
+            
+            $data = array(
+            'email' => $request->email,
+            'name' => $request->name,
+            'subject' => 'Oferta - Miody Wigor',
+            'code' => $user->code,
+            'mode' => 'oferta',
+            'rabat' => $rabat,
+            );   
+
+
+            Mail::send('newsletter.emails.ofertaPusta', $data, function($message) use($data) {
             $message->to($data['email']);
             $message->from('kontakt@miodywigor.pl');
             $message->subject($data['subject']);
         }); 
+        
+        }else{
+            Mail::send('newsletter.emails.oferta', $data, function($message) use($data) {
+            $message->to($data['email']);
+            $message->from('kontakt@miodywigor.pl');
+            $message->subject($data['subject']);
+            }); 
 
-        $news = new newsletter();
-        $news->email = $request->input('email');
-        $news->name = $request->input('name');
-        $news->code = $code;
-        $news->mode = 'oferta';
-        $news->rabat = $rabat;
-        $news->save();
+            $news = new newsletter();
+            $news->email = $request->input('email');
+            $news->name = $request->input('name');
+            $news->code = $code;
+            $news->mode = 'oferta';
+            $news->rabat = $rabat;
+            $news->save();
+
+
+        }
+
+
+
+        
 
         return redirect()->route('newsletter.oferta');
     }
