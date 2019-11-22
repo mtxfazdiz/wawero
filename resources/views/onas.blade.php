@@ -20,7 +20,7 @@
 	<div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading"></h2>
-            <p class="lead">Nasze gospodarstwo znajduje się w Rogitach (koło Braniewa) w województwie warmińsko - mazurskim. Duże obszary leśne, duże powierzchnie upraw oraz brak jakiegokolwiek przemysłu, dróg szybkiego ruchu, dużych aglomeracji pozwalają nam pozyskiwać miody nieskażone o bardzo wysokim stopniu czystości. Zajmujemy się pozyskiwaniem produktów pszczelich takich jak: miód, pyłek kwiatowy, propolis, wosk, pierzga. Wieloletnie doświadczenie w prowadzeniu pasieki pozwala nam pozyskiwać produkty najwyższej jakości. </p>
+            <p class="lead">Gospodarstwo "Miody Wigor" znajduje się w Rogitach ( koło Braniewa) w województwie warmińsko-mazurskim. Duże obszary leśne, duże powierzchnie upraw oraz brak jakiegokolwiek przemysłu, pozwalają nam pozyskiwać miody nieskażone o bardzo wysokim stopniu czystości. Zajmujemy się pozyskiwaniem produktów pszczelich takich jak: miód, pyłek kwiatowy, propolis, wosk oraz pierzga. Wieloletnie doświadczenie w prowadzeniu pasieki, które jest przekazywane z pokolenia na pokolenie przekłada się na jakość naszych produktów. Do każdego produktu podchodzimy z szacunkiem i dbałością o szczegóły. Wszelkie prace odbywają się zgodnie z ideą manufaktury. Nasze pszczelarstwo to nie tylko rzemiosło a przede wszystkim sztuka.</p>
           </div>
           <div class="col-md-5 d-flex align-items-center">
             <img class="featurette-image img-fluid mx-auto" src="pic/beekeeper02.jpg" alt="Bees">
